@@ -6,7 +6,7 @@ Fell free to look around!
 > - Every content inside is my own, but it was inspired or based from content given by teachers or books. See [here](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2023&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841) the course's page for more information about the teachers and the subjects.
 > - In terms of the exercises, the statement will not be published, so it may be difficult to find the context of each one.
 > - If you are a student, use this resources at your own risk. I'm not responsible for any problem that may arise.
-> - This compilation of material may be outdated or incomplete.
+> - This compilation of material may be outdated or incomplete.  
 
 
 <table class="tg">
@@ -15,7 +15,7 @@ Fell free to look around!
     <th class="tg-7btt">Year</th>
     <th class="tg-amwm">Subject</th>
     <th class="tg-amwm">Notes</th>
-    <th class="tg-amwm">Exercices</th>
+    <th class="tg-amwm">Exercises</th>
     <th class="tg-amwm">Projects</th>
   </tr>
 </thead>
@@ -23,14 +23,14 @@ Fell free to look around!
   <tr>
     <td class="tg-nrix" rowspan="10">1<br><br><span style="color:#9B9B9B">(22/23)</span></td>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520305" target="_blank" rel="noopener noreferrer">ALGA</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520306" target="_blank" rel="noopener noreferrer">AM I</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
@@ -41,44 +41,44 @@ Fell free to look around!
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520308" target="_blank" rel="noopener noreferrer">FSC</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520309" target="_blank" rel="noopener noreferrer">MD</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520311" target="_blank" rel="noopener noreferrer">AC</a></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520312" target="_blank" rel="noopener noreferrer">AM II</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520313" target="_blank" rel="noopener noreferrer">Fís. I</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520314" target="_blank" rel="noopener noreferrer">Prog.</a></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><a href="https://github.com/guilherme-ds-matos/ProgProj" target="_blank" rel="noopener noreferrer">🔗</a></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520315" target="_blank" rel="noopener noreferrer">TC</a></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
