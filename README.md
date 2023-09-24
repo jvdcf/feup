@@ -2,6 +2,7 @@ Hi! 👋
 This is a compilation of all notes, exercises and programs made while studying in the degree of computer science and computing engineering (L.EIC).  
 Fell free to look around!
 
+> [!IMPORTANT]  
 > This repository is for educational and archival reasons only.
 > - Every content inside is my own, but it was inspired or based from content given by teachers or books. See [here](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2023&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841) the course's page for more information about the teachers and the subjects.
 > - In terms of the exercises, the statement will not be published, so it may be difficult to find the context of each one.
