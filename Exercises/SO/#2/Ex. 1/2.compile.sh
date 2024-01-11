@@ -1,0 +1,1 @@
+ gcc -Wall use_complex.c -o use_complex -L. -lcomplex -lm
