@@ -117,7 +117,7 @@ Fell free to look around!
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520319" target="_blank" rel="noopener noreferrer">LDTS</a></td>
-    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix"></td>
     <td class="tg-nrix">📁</td>
     <td class="tg-nrix"><a href="https://github.com/jvdcf/project-l02gr08" target="_blank" rel="noopener noreferrer">🔗</a></td>
 	<td class="tg-nrix">Git, Gradle, Java, Intellij</td>
