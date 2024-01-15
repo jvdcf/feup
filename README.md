@@ -18,6 +18,7 @@ Fell free to look around!
     <th class="tg-amwm">Notes</th>
     <th class="tg-amwm">Exercises</th>
     <th class="tg-amwm">Projects</th>
+	<th class="tg-amwm">Tools used</th>
   </tr>
 </thead>
 <tbody>
@@ -27,121 +28,141 @@ Fell free to look around!
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520306" target="_blank" rel="noopener noreferrer">AM I</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520307" target="_blank" rel="noopener noreferrer">FP</a></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh">Python, Jupyter, Spyder</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520308" target="_blank" rel="noopener noreferrer">FSC</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
+	<td class="tg-baqh">RISC-V</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520309" target="_blank" rel="noopener noreferrer">MD</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520311" target="_blank" rel="noopener noreferrer">AC</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh">RISC-V</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520312" target="_blank" rel="noopener noreferrer">AM II</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520313" target="_blank" rel="noopener noreferrer">Fís. I</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520314" target="_blank" rel="noopener noreferrer">Prog.</a></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
-    <td class="tg-baqh"><a href="https://github.com/guilherme-ds-matos/ProgProj" target="_blank" rel="noopener noreferrer">🔗</a></td>
+    <td class="tg-baqh"><a href="https://github.com/jvdcf/ProgProj" target="_blank" rel="noopener noreferrer">🔗</a></td>
+	<td class="tg-baqh">C++, VS Code</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520315" target="_blank" rel="noopener noreferrer">TC</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh"></td>
+	<td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="10">2<br><br><span style="color:#9B9B9B">(23/24)</span></td>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520316" target="_blank" rel="noopener noreferrer">AED</a></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix"><a href="https://github.com/jvdcf/aed-schedules" target="_blank" rel="noopener noreferrer">🔗</a><a href="https://github.com/jvdcf/aed-travels" target="_blank" rel="noopener noreferrer">🔗</a></td>
+	<td class="tg-nrix">C++, CLion, GoogleTest</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520317" target="_blank" rel="noopener noreferrer">BD</a></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">SQLite</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520318" target="_blank" rel="noopener noreferrer">Fís. II</a></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520319" target="_blank" rel="noopener noreferrer">LDTS</a></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix"><a href="https://github.com/jvdcf/project-l02gr08" target="_blank" rel="noopener noreferrer">🔗</a></td>
+	<td class="tg-nrix">Git, Gradle, Java, Intellij</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520320" target="_blank" rel="noopener noreferrer">SO</a></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+	<td class="tg-nrix">C, UNIX</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520321" target="_blank" rel="noopener noreferrer">DA</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520322" target="_blank" rel="noopener noreferrer">ES</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323" target="_blank" rel="noopener noreferrer">LC</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520324" target="_blank" rel="noopener noreferrer">LTW</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520325" target="_blank" rel="noopener noreferrer">ME</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="10">3<br><br><span style="color:#9B9B9B">(24/25)</span></td>
@@ -149,47 +170,55 @@ Fell free to look around!
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520327" target="_blank" rel="noopener noreferrer">IPC</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520328" target="_blank" rel="noopener noreferrer">LBAW</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520329" target="_blank" rel="noopener noreferrer">PFL</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520330" target="_blank" rel="noopener noreferrer">RC</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520331" target="_blank" rel="noopener noreferrer">C</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520332" target="_blank" rel="noopener noreferrer">CG</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520333" target="_blank" rel="noopener noreferrer">CPD</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
@@ -197,12 +226,14 @@ Fell free to look around!
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520335" target="_blank" rel="noopener noreferrer">Projeto</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
+	<td class="tg-nrix"></td>
   </tr>
 </tbody>
 </table>
