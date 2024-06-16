@@ -1,6 +1,5 @@
-Hi! 👋  
+Hi! Fell free to look around! 👋  
 This is a compilation of all notes, exercises and programs made while studying in the degree of computer science and computing engineering (L.EIC).  
-Fell free to look around!
 
 > [!IMPORTANT]  
 > This repository is for educational and archival reasons only.
@@ -48,7 +47,7 @@ Fell free to look around!
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520308" target="_blank" rel="noopener noreferrer">FSC</a></td>
     <td class="tg-baqh">📁</td>
     <td class="tg-baqh">📁</td>
-    <td class="tg-baqh">📁</td>
+    <td class="tg-baqh"></td>
 	<td class="tg-baqh">RISC-V</td>
   </tr>
   <tr>
@@ -83,7 +82,7 @@ Fell free to look around!
     <td class="tg-baqh"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520314" target="_blank" rel="noopener noreferrer">Prog.</a></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
-    <td class="tg-baqh"><a href="https://github.com/jvdcf/ProgProj" target="_blank" rel="noopener noreferrer">🔗</a></td>
+    <td class="tg-baqh">📁</td>
 	<td class="tg-baqh">C++, VS Code</td>
   </tr>
   <tr>
@@ -119,7 +118,7 @@ Fell free to look around!
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520319" target="_blank" rel="noopener noreferrer">LDTS</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix">📁</td>
-    <td class="tg-nrix"><a href="https://github.com/jvdcf/project-l02gr08" target="_blank" rel="noopener noreferrer">🔗</a></td>
+    <td class="tg-nrix">📁</td>
 	<td class="tg-nrix">Git, Gradle, Java, Intellij</td>
   </tr>
   <tr>
