@@ -1,0 +1,14 @@
+<map id="ms_next" name="ms_next">
+<area shape="rect" id="Node000001" title="Next interrupt handling state." alt="" coords="5,83,83,110"/>
+<area shape="rect" id="Node000002" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="131,31,260,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,81,138,61,140,66,84,86"/>
+<area shape="rect" id="Node000005" href="$db/d9f/mouse_8c.html#ad739c347ab2e83a94360dbe253e286b2" title=" " alt="" coords="153,83,238,110"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="83,94,138,94,138,99,83,99"/>
+<area shape="rect" id="Node000006" href="$d0/df6/group__mouse.html#gace3931eb042fd6f63dcd742890d6121b" title="Parse the 3 mouse bytes into a packet." alt="" coords="153,135,238,162"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="84,107,140,127,138,132,82,112"/>
+<area shape="rect" id="Node000003" href="$d9/d6c/group__i8042.html#gaa4c58a11cd49c54cc0eb02a79010a9cc" title="Reads the status of the KBC." alt="" coords="308,5,435,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,33,292,28,293,33,261,38"/>
+<area shape="rect" id="Node000004" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="483,31,582,58"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="260,42,468,42,468,47,260,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="436,27,468,32,468,37,436,32"/>
+</map>

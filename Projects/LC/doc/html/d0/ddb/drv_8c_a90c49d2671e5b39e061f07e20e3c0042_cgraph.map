@@ -1,0 +1,17 @@
+<map id="sp_ih" name="sp_ih">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,61,85"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#a258c2c4f8f6b026bf8a2355444bb547e" title=" " alt="" coords="109,5,231,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,58,116,37,118,42,62,63"/>
+<area shape="rect" id="Node000003" href="$d0/ddb/drv_8c.html#aa6571d5d8e1cba1854c13b8024cd7bb4" title=" " alt="" coords="131,57,209,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="61,69,115,69,115,74,61,74"/>
+<area shape="rect" id="Node000007" href="$d0/ddb/drv_8c.html#af1b7b34960dc8187e2db23953c342643" title=" " alt="" coords="125,109,215,137"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="62,79,118,101,116,106,60,84"/>
+<area shape="rect" id="Node000004" href="$d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c" title="Write an element to the ring buffer." alt="" coords="279,57,409,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,69,264,69,264,74,209,74"/>
+<area shape="rect" id="Node000005" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="457,14,607,59"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="409,57,442,50,443,56,410,62"/>
+<area shape="rect" id="Node000006" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="457,84,607,128"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="410,81,443,87,442,92,409,86"/>
+<area shape="rect" id="Node000008" href="$d0/ddb/drv_8c.html#a91fbba6e33ab4e0dd0aaa0c27c74f6eb" title=" " alt="" coords="281,109,407,137"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="215,121,266,121,266,126,215,126"/>
+</map>

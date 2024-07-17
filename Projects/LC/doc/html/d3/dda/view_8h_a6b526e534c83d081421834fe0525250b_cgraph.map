@@ -1,0 +1,9 @@
+<map id="draw_menu" name="draw_menu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,103,60"/>
+<area shape="rect" id="Node000002" href="$d7/de9/group__video.html#ga00c47c578456d75117adea681e3d07fa" title=" " alt="" coords="151,5,248,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,34,135,28,136,33,104,40"/>
+<area shape="rect" id="Node000004" href="$d7/de9/group__video.html#ga22b4d43f7ba31db20cfb211a453415f4" title=" " alt="" coords="156,57,243,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,52,141,58,140,64,103,57"/>
+<area shape="rect" id="Node000003" href="$d7/de9/group__video.html#gac6e5a088ef0e0d4b14d82f020d7243ab" title=" " alt="" coords="296,5,388,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,17,280,17,280,22,249,22"/>
+</map>

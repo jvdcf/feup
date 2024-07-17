@@ -1,0 +1,13 @@
+<map id="is_over" name="is_over">
+<area shape="rect" id="Node000001" title="Checks if a board has all its boats sunk." alt="" coords="366,57,434,85"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a435fc720f66074966e3ea8d245d20d8c" title="In the End state, draw the end menu." alt="" coords="196,5,268,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,59,268,33,269,28,352,54"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="159,57,305,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,74,305,74,305,69,350,69"/>
+<area shape="rect" id="Node000006" href="$d1/d75/controller_8c.html#a7c5ce8bd5fd68c607f42500b7cfbfe63" title="In the WaitingTurn state, receive the attack and communicate the result." alt="" coords="146,109,318,137"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="352,89,280,111,278,106,351,83"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="5,32,98,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,61,98,55,99,50,144,56"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="10,84,93,112"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="144,87,94,94,93,89,144,82"/>
+</map>

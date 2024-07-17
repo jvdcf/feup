@@ -1,0 +1,9 @@
+<map id="draw_boat" name="draw_boat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,32,406,60"/>
+<area shape="rect" id="Node000002" href="$da/d97/view_8c.html#a883a363f77b8f4b87dbc22f8f7ab333c" title=" " alt="" coords="183,32,269,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,49,269,49,269,43,301,43"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a977b6000b650124008c29c042e12abae" title="In the MyTurn state, draw the boards, the clock and the cursor." alt="" coords="19,5,121,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,38,121,31,122,25,168,33"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#aa56c0664b684606bfdad454b6438b24e" title="In the WaitingTurn state, draw only the boards." alt="" coords="5,57,135,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,58,136,63,135,58,167,53"/>
+</map>

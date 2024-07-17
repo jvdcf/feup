@@ -1,0 +1,5 @@
+<map id="draw_mouse" name="draw_mouse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,260,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a977b6000b650124008c29c042e12abae" title="In the MyTurn state, draw the boards, the clock and the cursor." alt="" coords="5,5,108,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,22,108,22,108,17,140,17"/>
+</map>

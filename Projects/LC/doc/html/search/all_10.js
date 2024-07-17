@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['r_0',['R',['../d7/d45/video_8c.html#a39a313c29796609bd5f179715748d3c8',1,'video.c']]],
+  ['r_1',['r',['../d7/de9/group__video.html#ga375aa3e534fd8d829cadcf99409eee4a',1,'VG_State']]],
+  ['r_5fah_2',['R_AH',['../d9/de9/group__vbe.html#gade85229b4d19e6d4dfbc219f1ce7907d',1,'vbe.h']]],
+  ['r_5fint_3',['R_INT',['../d9/de9/group__vbe.html#gaacb6838ac242e446e931dd32a87333cf',1,'vbe.h']]],
+  ['r_5fvbe_5fmode_4',['R_VBE_MODE',['../d9/de9/group__vbe.html#gacf2fce32227429a7e8df645187bd8489',1,'vbe.h']]],
+  ['rb_5',['rb',['../d9/dd6/structrb.html',1,'']]],
+  ['rcv_6',['RCV',['../d8/d5c/drv_8h.html#a3bc286803dd900b16f9c3704d4c2f198',1,'drv.h']]],
+  ['read_5fhead_7',['read_head',['../d9/dd6/structrb.html#af4da952b0655b3941f2a8af74d19a6ed',1,'rb']]],
+  ['readme_2emd_8',['README.md',['../da/ddd/README_8md.html',1,'']]],
+  ['receive_9',['receive',['../d1/dd6/model_8c.html#a04c6bb1bb10f7f90a1461f00307a100d',1,'receive(Game *g, uint8_t x, uint8_t y):&#160;model.c'],['../dc/d51/model_8h.html#a5f1ac78304fb51799a1b4a113fc4eae0',1,'receive(Game *game, uint8_t x, uint8_t y):&#160;model.c']]],
+  ['red_10',['red',['../d7/de9/group__video.html#gad7213154c7814376e75234e5f7e8646a',1,'red(VG_State *v, unsigned column, uint8_t step, uint32_t first):&#160;video.c'],['../d7/de9/group__video.html#gad7213154c7814376e75234e5f7e8646a',1,'red(VG_State *v, unsigned column, uint8_t step, uint32_t first):&#160;video.c']]],
+  ['ring_5fbuffer_11',['ring_buffer',['../d6/da4/ringbuffer_8h.html#ad320d73ef4154cb718de1286841999e8',1,'ringbuffer.h']]],
+  ['ring_5fbuffer_5fdefault_5fsize_12',['RING_BUFFER_DEFAULT_SIZE',['../d6/da4/ringbuffer_8h.html#a1d126d62f3b4e1a6e93819844baf218f',1,'ringbuffer.h']]],
+  ['ring_5fbuffer_5fdump_5fbuffer_13',['ring_buffer_dump_buffer',['../d4/d77/ringbuffer_8c.html#aa9991608d32266c67748b95161e8c916',1,'ring_buffer_dump_buffer(ring_buffer *rb):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#aa9991608d32266c67748b95161e8c916',1,'ring_buffer_dump_buffer(ring_buffer *rb):&#160;ringbuffer.c']]],
+  ['ring_5fbuffer_5ffree_14',['ring_buffer_free',['../d4/d77/ringbuffer_8c.html#ab1a710fd1304f8a3473a6f79a356d6c7',1,'ring_buffer_free(ring_buffer *tgt):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#a5615a983cbe10c141433da04b7868cd4',1,'ring_buffer_free(ring_buffer *rb):&#160;ringbuffer.c']]],
+  ['ring_5fbuffer_5finternal_5frealloc_15',['ring_buffer_internal_realloc',['../d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7',1,'ringbuffer.c']]],
+  ['ring_5fbuffer_5finternal_5fsimple_5fgrow_16',['ring_buffer_internal_simple_grow',['../d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d',1,'ringbuffer.c']]],
+  ['ring_5fbuffer_5fis_5fempty_17',['ring_buffer_is_empty',['../d4/d77/ringbuffer_8c.html#a2172504a7cc31f03500be7da803ba645',1,'ring_buffer_is_empty(ring_buffer *rb):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#a2172504a7cc31f03500be7da803ba645',1,'ring_buffer_is_empty(ring_buffer *rb):&#160;ringbuffer.c']]],
+  ['ring_5fbuffer_5fnew_18',['ring_buffer_new',['../d4/d77/ringbuffer_8c.html#a98661066f152b5834290d40a05683183',1,'ring_buffer_new(size_t buf_size, size_t elem_size):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#a98661066f152b5834290d40a05683183',1,'ring_buffer_new(size_t buf_size, size_t elem_size):&#160;ringbuffer.c']]],
+  ['ring_5fbuffer_5fpop_19',['ring_buffer_pop',['../d4/d77/ringbuffer_8c.html#a5a002482ded2767d23f7d277d70f797e',1,'ring_buffer_pop(ring_buffer *rb, void *elem):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#a5a002482ded2767d23f7d277d70f797e',1,'ring_buffer_pop(ring_buffer *rb, void *elem):&#160;ringbuffer.c']]],
+  ['ring_5fbuffer_5fpush_20',['ring_buffer_push',['../d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c',1,'ring_buffer_push(ring_buffer *rb, void *elem):&#160;ringbuffer.c'],['../d6/da4/ringbuffer_8h.html#a37044119e5607b2c0717ef9da5227d8c',1,'ring_buffer_push(ring_buffer *rb, void *elem):&#160;ringbuffer.c']]],
+  ['ringbuffer_2ec_21',['ringbuffer.c',['../d4/d77/ringbuffer_8c.html',1,'']]],
+  ['ringbuffer_2eh_22',['ringbuffer.h',['../d6/da4/ringbuffer_8h.html',1,'']]]
+];

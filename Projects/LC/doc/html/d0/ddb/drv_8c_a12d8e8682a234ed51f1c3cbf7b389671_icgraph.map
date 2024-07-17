@@ -1,0 +1,13 @@
+<map id="sp_push_byte" name="sp_push_byte">
+<area shape="rect" id="Node000001" title="Pushes a byte to the output buffer." alt="" coords="379,83,489,110"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="166,31,311,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,81,293,62,294,56,366,76"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#a07eb1023ba6520985c3123f6b77212ff" title="In the WaitingSelect state, communicate with the other computer to see who plays first." alt="" coords="146,83,331,110"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="363,99,332,99,332,94,363,94"/>
+<area shape="rect" id="Node000006" href="$d1/d75/controller_8c.html#a7c5ce8bd5fd68c607f42500b7cfbfe63" title="In the WaitingTurn state, receive the attack and communicate the result." alt="" coords="152,135,325,162"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="366,117,294,137,293,131,364,112"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="5,5,98,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,35,98,28,98,23,151,30"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="10,57,93,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="151,60,94,68,93,63,150,54"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="get_coord" name="get_coord">
+<area shape="rect" id="Node000001" title="Get a pointer to a specific coordinate in a board (player or enemy)." alt="" coords="548,84,634,112"/>
+<area shape="rect" id="Node000002" href="$d1/dd6/model_8c.html#a1ce1e67897b787661b65041ca25a4a36" title="Add a boat to the player board." alt="" coords="411,5,492,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,78,499,48,477,36,480,31,502,44,553,73"/>
+<area shape="rect" id="Node000004" href="$d1/dd6/model_8c.html#a7fd5e64a5cba5eb319f6fe87b4c8bce1" title="The player attacks a square in the enemy board." alt="" coords="421,57,483,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="533,89,483,80,484,74,534,84"/>
+<area shape="rect" id="Node000008" href="$da/d97/view_8c.html#a7c8dca8d144c462fedfc67b722146662" title=" " alt="" coords="403,109,500,137"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="534,111,501,117,500,112,533,106"/>
+<area shape="rect" id="Node000012" href="$d1/dd6/model_8c.html#a04c6bb1bb10f7f90a1461f00307a100d" title="The enemy attacks a square in the player board." alt="" coords="417,161,486,189"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="553,122,502,151,480,163,477,158,499,146,550,117"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a4266b3d20ae07db3267f6a268b5d88e2" title="In the SelectBoats state, randomly select the positions for the 8 boats." alt="" coords="204,5,334,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,22,334,22,334,17,396,17"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="196,57,342,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="405,74,342,74,342,69,405,69"/>
+<area shape="rect" id="Node000006" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="24,5,116,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="197,55,116,34,117,29,199,50"/>
+<area shape="rect" id="Node000007" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="28,57,112,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="180,74,112,74,112,69,180,69"/>
+<area shape="rect" id="Node000009" href="$da/d97/view_8c.html#a883a363f77b8f4b87dbc22f8f7ab333c" title=" " alt="" coords="226,109,312,137"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="387,126,313,126,313,121,387,121"/>
+<area shape="rect" id="Node000010" href="$d1/d75/controller_8c.html#a977b6000b650124008c29c042e12abae" title="In the MyTurn state, draw the boards, the clock and the cursor." alt="" coords="19,109,121,137"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="210,126,122,126,122,121,210,121"/>
+<area shape="rect" id="Node000011" href="$d1/d75/controller_8c.html#aa56c0664b684606bfdad454b6438b24e" title="In the WaitingTurn state, draw only the boards." alt="" coords="5,161,135,189"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="211,141,127,163,125,158,210,136"/>
+<area shape="rect" id="Node000013" href="$d1/d75/controller_8c.html#a7c5ce8bd5fd68c607f42500b7cfbfe63" title="In the WaitingTurn state, receive the attack and communicate the result." alt="" coords="183,161,355,189"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="401,178,356,178,356,173,401,173"/>
+</map>

@@ -130,38 +130,38 @@ This is a compilation of all notes, exercises and programs made while studying i
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520321" target="_blank" rel="noopener noreferrer">DA</a></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="https://github.com/jvdcf/da-watersupply" target="_blank" rel="noopener noreferrer">🔗</a><a href="https://github.com/jvdcf/da-salesperson" target="_blank" rel="noopener noreferrer">🔗</a></td>
+	<td class="tg-nrix">C++, CLion, GoogleTest</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520322" target="_blank" rel="noopener noreferrer">ES</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">Flutter, Firebase, Android</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323" target="_blank" rel="noopener noreferrer">LC</a></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">C, Minix, VirtualBox</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520324" target="_blank" rel="noopener noreferrer">LTW</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">HTML, CSS, PHP, JavaScript</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520325" target="_blank" rel="noopener noreferrer">ME</a></td>
+    <td class="tg-nrix">📁</td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+	<td class="tg-nrix">R</td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="10">3<br><br><span style="color:#9B9B9B">(24/25)</span></td>

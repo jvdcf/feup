@@ -1,0 +1,23 @@
+<map id="ms_new_ih" name="ms_new_ih">
+<area shape="rect" id="Node000001" title="Creates a new mouse management state for interrupt handling." alt="" coords="5,84,100,112"/>
+<area shape="rect" id="Node000002" href="$d0/df6/group__mouse.html#gaeda12eef3afc754a798dd2606ab6e0c1" title="Enable data reporting for the mouse." alt="" coords="159,57,271,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,87,143,80,144,86,100,93"/>
+<area shape="rect" id="Node000009" href="$d0/df6/group__mouse.html#gacf472f6616fa4bfdb651ab30f33fe6a8" title="Subscribe to mouse interrupts." alt="" coords="148,109,282,137"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="100,103,133,108,132,113,100,108"/>
+<area shape="rect" id="Node000003" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="330,5,459,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,54,329,35,331,40,266,59"/>
+<area shape="rect" id="Node000006" href="$d9/d6c/group__i8042.html#ga8d36cab0fb2f7286885dab3ef79ea03b" title="Writes a command to command register of the KBC." alt="" coords="335,109,454,137"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="266,83,331,102,329,107,265,88"/>
+<area shape="rect" id="Node000008" href="$d9/d6c/group__i8042.html#ga17359167485009c0c7e004ef44a907ec" title="Writes a command to the input buffer of the KBC." alt="" coords="333,57,457,85"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="271,69,317,69,317,74,271,74"/>
+<area shape="rect" id="Node000004" href="$d9/d6c/group__i8042.html#gaa4c58a11cd49c54cc0eb02a79010a9cc" title="Reads the status of the KBC." alt="" coords="507,57,635,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,31,508,50,506,55,444,36"/>
+<area shape="rect" id="Node000005" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="683,32,781,60"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="460,22,667,38,667,43,459,27"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,58,667,53,668,59,636,64"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="444,106,506,87,508,92,445,111"/>
+<area shape="rect" id="Node000007" href="$d3/d91/utils_8c.html#aea7066187a4d4db05f060133215c78ed" title=" " alt="" coords="517,109,625,137"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="455,121,502,121,502,126,455,126"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="457,69,492,69,492,74,457,74"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="445,83,508,102,506,107,444,88"/>
+</map>

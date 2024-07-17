@@ -1,0 +1,19 @@
+<map id="sp_debug" name="sp_debug">
+<area shape="rect" id="Node000001" title="Debug function to print the contents of the serial port driver." alt="" coords="5,32,89,60"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#aa9991608d32266c67748b95161e8c916" title="Debug function to print the contents of the buffer." alt="" coords="137,5,319,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,37,121,32,122,38,90,42"/>
+<area shape="rect" id="Node000003" href="$d0/ddb/drv_8c.html#a36a96fbfe6ac5e08e6f449a7c5b644a6" title="Prints the configuration of the serial port driver, including the bit&#45;rate, number of stop bits and t..." alt="" coords="168,57,288,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,49,153,58,152,63,89,54"/>
+<area shape="rect" id="Node000004" href="$d0/ddb/drv_8c.html#a50cd505a75957ba67a5353eb11fc5431" title=" " alt="" coords="521,32,648,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,64,505,49,506,54,289,70"/>
+<area shape="rect" id="Node000006" href="$d0/ddb/drv_8c.html#a906e4657e35cc1514da103ac6d8d6146" title=" " alt="" coords="367,83,471,110"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="289,76,352,85,352,90,288,82"/>
+<area shape="rect" id="Node000005" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="702,57,801,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="648,53,687,59,686,64,647,58"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="466,80,522,62,523,67,467,85"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="472,90,686,73,687,79,472,95"/>
+<area shape="rect" id="Node000007" href="$d0/ddb/drv_8c.html#ad4087fd217b8ef41c0ae316c5035ad31" title=" " alt="" coords="519,133,650,161"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="467,108,523,126,522,131,466,113"/>
+<area shape="rect" id="Node000008" href="$d3/d91/utils_8c.html#aea7066187a4d4db05f060133215c78ed" title=" " alt="" coords="698,133,805,161"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="650,145,682,145,682,150,650,150"/>
+</map>

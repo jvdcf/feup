@@ -1,0 +1,5 @@
+<map id="Board" name="Board">
+<area shape="rect" id="Node000001" title="The structure representing a board." alt="" coords="5,98,65,126"/>
+<area shape="rect" id="Node000002" href="$d9/dfc/structCoord.html" title="The structure representing a square in the board." alt="" coords="5,5,65,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,48,38,98,32,98,32,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sp_print_config" name="sp_print_config">
+<area shape="rect" id="Node000001" title="Prints the configuration of the serial port driver, including the bit&#45;rate, number of stop bits and t..." alt="" coords="137,5,257,33"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#a6d3841a7e71840a0b9c294b0aeeecb61" title="Debug function to print the contents of the serial port driver." alt="" coords="5,5,89,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,22,89,22,89,17,121,17"/>
+</map>

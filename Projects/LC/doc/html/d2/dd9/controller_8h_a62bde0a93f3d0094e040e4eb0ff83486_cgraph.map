@@ -1,0 +1,37 @@
+<map id="free_controllers" name="free_controllers">
+<area shape="rect" id="Node000001" title="Frees the memory allocated for the controllers and closes every driver. It should be called after the..." alt="" coords="5,135,129,162"/>
+<area shape="rect" id="Node000002" href="$d9/d91/group__keyboard.html#ga4beb2874cf4b3c81c0e3ce1eb457f993" title=" " alt="" coords="224,5,295,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,132,175,69,220,39,223,44,178,73,89,136"/>
+<area shape="rect" id="Node000004" href="$d0/df6/group__mouse.html#ga6771e0f0e76e1d8b545f3a75dff9301e" title="Destroys a mouse management state." alt="" coords="222,83,297,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,131,206,108,208,113,122,137"/>
+<area shape="rect" id="Node000013" href="$d0/ddb/drv_8c.html#a6066164e0e6331b263badf75a924ca9c" title="Frees the resources used by the serial port driver." alt="" coords="206,135,313,162"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="129,146,190,146,190,151,129,151"/>
+<area shape="rect" id="Node000015" href="$d7/d2c/group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts." alt="" coords="177,187,342,214"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="122,160,192,180,190,185,120,166"/>
+<area shape="rect" id="Node000016" href="$d7/de9/group__video.html#ga50ecd4c472d3ea8d4410645e95cfaa5f" title=" " alt="" coords="224,239,295,266"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="87,161,127,192,178,223,210,237,208,242,175,228,124,196,83,165"/>
+<area shape="rect" id="Node000003" href="$d9/d91/group__keyboard.html#ga9786dd4bcce4408b172f3d3023354a38" title=" " alt="" coords="392,5,538,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,17,376,17,376,22,295,22"/>
+<area shape="rect" id="Node000005" href="$d0/df6/group__mouse.html#ga13989630ef9536d4793a5318e7385adf" title="Disable data reporting for the mouse." alt="" coords="408,57,523,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,89,392,77,393,83,297,95"/>
+<area shape="rect" id="Node000012" href="$d0/df6/group__mouse.html#ga80c7b4b2dd2ae58358ee05978cce9720" title="Unsubscribe to mouse interrupts." alt="" coords="390,109,540,137"/>
+<area shape="poly" id="edge15_Node000004_Node000012" title=" " alt="" coords="297,99,375,109,374,114,297,104"/>
+<area shape="rect" id="Node000006" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="588,5,718,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="517,54,585,35,587,40,519,59"/>
+<area shape="rect" id="Node000009" href="$d9/d6c/group__i8042.html#ga8d36cab0fb2f7286885dab3ef79ea03b" title="Writes a command to command register of the KBC." alt="" coords="593,109,713,137"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="519,83,587,102,585,107,517,88"/>
+<area shape="rect" id="Node000011" href="$d9/d6c/group__i8042.html#ga17359167485009c0c7e004ef44a907ec" title="Writes a command to the input buffer of the KBC." alt="" coords="591,57,715,85"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="523,69,575,69,575,74,523,74"/>
+<area shape="rect" id="Node000007" href="$d9/d6c/group__i8042.html#gaa4c58a11cd49c54cc0eb02a79010a9cc" title="Reads the status of the KBC." alt="" coords="766,57,893,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="703,31,766,50,765,55,702,36"/>
+<area shape="rect" id="Node000008" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="941,32,1039,60"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="718,22,926,38,925,43,718,27"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="893,58,925,53,926,59,894,64"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="702,106,765,87,766,92,703,111"/>
+<area shape="rect" id="Node000010" href="$d3/d91/utils_8c.html#aea7066187a4d4db05f060133215c78ed" title=" " alt="" coords="776,109,883,137"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="713,121,760,121,760,126,713,126"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="716,69,750,69,750,74,716,74"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="703,83,766,102,765,107,702,88"/>
+<area shape="rect" id="Node000014" href="$d4/d77/ringbuffer_8c.html#ab1a710fd1304f8a3473a6f79a356d6c7" title="Frees the memory allocated for the ring buffer." alt="" coords="403,161,528,189"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="314,153,387,162,387,168,313,158"/>
+</map>

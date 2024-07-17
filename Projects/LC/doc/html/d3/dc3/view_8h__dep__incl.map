@@ -1,0 +1,9 @@
+<map id="view.h" name="view.h">
+<area shape="rect" id="Node000001" title="Definitions of all the drawing functions, i.e., the view of this MVC architecture." alt="" coords="121,5,184,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html" title="Implementation of all the functions executed in every iteration of the game loop." alt="" coords="5,81,100,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,45,72,83,69,78,121,40"/>
+<area shape="rect" id="Node000003" href="$d8/dfd/proj_8c.html" title="Entry point of the game." alt="" coords="124,81,181,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,49,155,81,150,81,150,49"/>
+<area shape="rect" id="Node000004" href="$da/d97/view_8c.html" title="Implementation of the functions related to the game view." alt="" coords="205,81,268,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,42,223,79,220,83,177,46"/>
+</map>

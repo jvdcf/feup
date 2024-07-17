@@ -1,0 +1,5 @@
+<map id="draw_menu" name="draw_menu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,5,236,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a3d4af713ac4d4e2bd9252ff9f6865523" title="In the Menu state, draw the menu." alt="" coords="5,5,91,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,22,91,22,91,17,123,17"/>
+</map>

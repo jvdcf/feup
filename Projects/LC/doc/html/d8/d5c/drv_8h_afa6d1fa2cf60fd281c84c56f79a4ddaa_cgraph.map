@@ -1,0 +1,13 @@
+<map id="sp_init" name="sp_init">
+<area shape="rect" id="Node000001" title="Initializes the serial port driver." alt="" coords="5,57,70,85"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#af1b7b34960dc8187e2db23953c342643" title=" " alt="" coords="136,5,226,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,57,125,36,127,41,71,62"/>
+<area shape="rect" id="Node000004" href="$d4/d77/ringbuffer_8c.html#a98661066f152b5834290d40a05683183" title="Forward declaration of the ring buffer struct (see ringbuffer.c)" alt="" coords="118,57,244,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="70,69,102,69,102,74,70,74"/>
+<area shape="rect" id="Node000005" href="$d0/ddb/drv_8c.html#a6066164e0e6331b263badf75a924ca9c" title="Frees the resources used by the serial port driver." alt="" coords="127,109,235,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="71,80,127,101,125,106,69,85"/>
+<area shape="rect" id="Node000003" href="$d0/ddb/drv_8c.html#a91fbba6e33ab4e0dd0aaa0c27c74f6eb" title=" " alt="" coords="292,5,418,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,17,277,17,277,22,226,22"/>
+<area shape="rect" id="Node000006" href="$d4/d77/ringbuffer_8c.html#ab1a710fd1304f8a3473a6f79a356d6c7" title="Frees the memory allocated for the ring buffer." alt="" coords="293,109,418,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,121,277,121,277,126,235,126"/>
+</map>

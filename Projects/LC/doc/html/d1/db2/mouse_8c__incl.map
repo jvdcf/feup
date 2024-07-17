@@ -1,0 +1,18 @@
+<map id="mouse.c" name="mouse.c">
+<area shape="rect" id="Node000001" title="Implementation of the driver functions related to the mouse driver." alt="" coords="52,5,128,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="44,232,128,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,35,44,87,25,121,11,157,8,171,11,183,27,205,48,222,44,226,23,208,6,185,3,171,6,156,21,119,40,84,77,32"/>
+<area shape="rect" id="Node000003" href="$dc/ded/mouse_8h.html" title="Declarations of the functions related to the mouse driver." alt="" coords="90,81,168,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,32,117,66,113,68,95,35"/>
+<area shape="rect" id="Node000004" href="$d5/d60/utils_8h.html" title="Declarations of utility functions." alt="" coords="166,157,271,184"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="119,31,151,51,182,79,201,110,213,141,208,143,196,112,177,83,148,56,116,36"/>
+<area shape="rect" id="Node000006" href="$da/d6a/i8042_8h.html" title="Constants and functions for dealing with the i8042 KBC." alt="" coords="21,157,90,184"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="90,34,65,142,59,141,85,33"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="128,110,97,218,92,217,123,108"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="147,107,192,145,189,149,143,111"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="118,111,81,147,77,144,114,107"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="196,187,124,227,122,222,193,183"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="183,232,253,260"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="221,185,221,217,216,217,216,185"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="63,184,77,217,72,219,59,186"/>
+</map>

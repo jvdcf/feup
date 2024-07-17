@@ -1,0 +1,14 @@
+<map id="ring_buffer_free" name="ring_buffer_free">
+<area shape="rect" id="Node000001" title="Frees the memory allocated for the ring buffer." alt="" coords="644,32,769,60"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#a6066164e0e6331b263badf75a924ca9c" title="Frees the resources used by the serial port driver." alt="" coords="488,32,596,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,49,596,49,596,43,628,43"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a62bde0a93f3d0094e040e4eb0ff83486" title="Frees the memory allocated for the controllers and closes every driver. It should be called after the..." alt="" coords="190,5,313,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,42,313,27,314,22,473,37"/>
+<area shape="rect" id="Node000005" href="$d0/ddb/drv_8c.html#afa6d1fa2cf60fd281c84c56f79a4ddaa" title="Initializes the serial port driver." alt="" coords="376,57,440,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="473,62,441,68,440,63,472,56"/>
+<area shape="rect" id="Node000004" href="$d8/dfd/proj_8c.html#af244d65e69677cf312af1950452ec256" title=" " alt="" coords="5,32,127,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,33,128,40,127,34,174,28"/>
+<area shape="rect" id="Node000006" href="$d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0" title="Populates the controller variables and initializes every driver. It should be called before the game ..." alt="" coords="175,57,328,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="361,74,328,74,328,69,361,69"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="159,61,127,57,127,51,159,56"/>
+</map>

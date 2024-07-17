@@ -1,0 +1,5 @@
+<map id="sp_terminate" name="sp_terminate">
+<area shape="rect" id="Node000001" title="Frees the resources used by the serial port driver." alt="" coords="5,5,113,33"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#ab1a710fd1304f8a3473a6f79a356d6c7" title="Frees the memory allocated for the ring buffer." alt="" coords="161,5,286,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,17,145,17,145,22,113,22"/>
+</map>

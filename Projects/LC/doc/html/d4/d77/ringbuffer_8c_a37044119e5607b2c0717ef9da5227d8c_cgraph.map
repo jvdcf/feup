@@ -1,0 +1,7 @@
+<map id="ring_buffer_push" name="ring_buffer_push">
+<area shape="rect" id="Node000001" title="Write an element to the ring buffer." alt="" coords="5,49,136,76"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="184,5,333,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,48,168,42,169,47,137,53"/>
+<area shape="rect" id="Node000003" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="184,75,333,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,72,169,78,168,83,136,77"/>
+</map>

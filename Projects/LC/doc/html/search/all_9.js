@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['i8042_0',['i8042',['../d9/d6c/group__i8042.html',1,'']]],
+  ['i8042_2ec_1',['i8042.c',['../d4/d1f/i8042_8c.html',1,'']]],
+  ['i8042_2eh_2',['i8042.h',['../da/d6a/i8042_8h.html',1,'']]],
+  ['i8254_3',['i8254',['../da/dcc/group__i8254.html',1,'']]],
+  ['i8254_2eh_4',['i8254.h',['../d7/ddf/i8254_8h.html',1,'']]],
+  ['i_5fdelay_5',['i_DELAY',['../d9/d6c/group__i8042.html#ga85c9aff35240f3fabeaeae372856ff70',1,'i8042.h']]],
+  ['i_5flatency_6',['i_LATENCY',['../d9/d6c/group__i8042.html#gad3c67f8092df1f802e710c16b407a7c8',1,'i8042.h']]],
+  ['ier_7',['IER',['../d8/d5c/drv_8h.html#a3e27fa35f9febccdc4a0c28a5c8cffbb',1,'drv.h']]],
+  ['ier_5frcvd_8',['IER_RCVD',['../d8/d5c/drv_8h.html#a946ecc2d6921e33f03683c5d3c8b6d58',1,'drv.h']]],
+  ['ier_5frcvs_9',['IER_RCVS',['../d8/d5c/drv_8h.html#a8ac3c97f3a5259ffdc937f5076de4798',1,'drv.h']]],
+  ['ier_5ftcve_10',['IER_TCVE',['../d8/d5c/drv_8h.html#abbf9500b798919f0a1145f4c67147d26',1,'drv.h']]],
+  ['ih_11',['ih',['../d9/d91/group__keyboard.html#gab590d0ebcde52298a7149c2a9134a91a',1,'KB_State::ih'],['../d0/df6/group__mouse.html#ga9c4ccc7b2b1c5a3975214077ebd5b0b6',1,'MS_State::ih']]],
+  ['iir_12',['IIR',['../d8/d5c/drv_8h.html#a67004975983f9c99226d63db17ba74c4',1,'drv.h']]],
+  ['in_5fmode_13',['in_mode',['../d7/d2c/group__timer.html#ga16c0028c537ce578196381bdc0cd97fd',1,'timer_status_field_val']]],
+  ['indexed_5fcolor_14',['INDEXED_COLOR',['../d9/de9/group__vbe.html#ga8cc35ceb6edb14480e5afceb3ce2ee8b',1,'vbe.h']]],
+  ['indexed_5fmode_15',['indexed_mode',['../d7/de9/group__video.html#ga0070ff3e092a3ff3e03032e764520c31',1,'indexed_mode(VG_State *v, uint16_t column, uint16_t row, uint8_t step, uint32_t first, uint8_t n):&#160;video.c'],['../d7/de9/group__video.html#ga0070ff3e092a3ff3e03032e764520c31',1,'indexed_mode(VG_State *v, uint16_t column, uint16_t row, uint8_t step, uint32_t first, uint8_t n):&#160;video.c']]],
+  ['initialize_5fcontrollers_16',['initialize_controllers',['../d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0',1,'initialize_controllers():&#160;controller.c'],['../d2/dd9/controller_8h.html#a0c9e024a849536531757fddba76487e0',1,'initialize_controllers():&#160;controller.c']]],
+  ['initialize_5fvideo_5fmemory_17',['initialize_video_memory',['../d7/de9/group__video.html#gacf9ca46209b5249f217cebc48ff5480a',1,'initialize_video_memory(VG_State *v):&#160;video.c'],['../d7/de9/group__video.html#gacf9ca46209b5249f217cebc48ff5480a',1,'initialize_video_memory(VG_State *v):&#160;video.c']]],
+  ['interrupt_5finfo_18',['Interrupt_Info',['../d1/d0a/structInterrupt__Info.html',1,'']]],
+  ['inval_5fval_19',['INVAL_val',['../d7/d2c/group__timer.html#gga5cc20f14fd50625eea9b20f58fbe2a55a829d958875d8e92068f1b07f858721a4',1,'timer.h']]],
+  ['irq_5fpol_20',['IRQ_POL',['../d9/d6c/group__i8042.html#gada6e2f7f207f8550e8b4fb9597b74e65',1,'i8042.h']]],
+  ['is_5fhit_21',['is_hit',['../d9/dfc/structCoord.html#a2e463f0f23f80c8082e13a864d0a9259',1,'Coord']]],
+  ['is_5fmakecode_22',['is_makecode',['../d9/d91/group__keyboard.html#gaa697d6ca7d66dfb5391d3a98b3dbc96a',1,'is_makecode(KB_State *state):&#160;keyboard.c'],['../d9/d91/group__keyboard.html#gaa697d6ca7d66dfb5391d3a98b3dbc96a',1,'is_makecode(KB_State *state):&#160;keyboard.c']]],
+  ['is_5fover_23',['is_over',['../d1/dd6/model_8c.html#abb1ae8fb1300e73e11befd247ee3e1cc',1,'is_over(Board *b):&#160;model.c'],['../dc/d51/model_8h.html#a381b7e0432d5f22edb148497c38e1706',1,'is_over(Board *board):&#160;model.c']]]
+];

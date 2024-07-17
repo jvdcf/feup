@@ -1,0 +1,7 @@
+<map id="ringbuffer.h" name="ringbuffer.h">
+<area shape="rect" id="Node000001" title="Definition of a circular vector. Useful for serial communication." alt="" coords="48,5,145,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,87,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,35,66,70,62,66,85,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="111,81,184,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,32,132,66,127,70,104,35"/>
+</map>

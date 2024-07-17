@@ -1,0 +1,9 @@
+<map id="ms_enable_dr" name="ms_enable_dr">
+<area shape="rect" id="Node000001" title="Enable data reporting for the mouse." alt="" coords="518,5,631,33"/>
+<area shape="rect" id="Node000002" href="$d0/df6/group__mouse.html#ga49ecaab3cfcfcac345f225d0c9b398ef" title="Creates a new mouse management state for interrupt handling." alt="" coords="376,5,470,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,22,471,22,471,17,503,17"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0" title="Populates the controller variables and initializes every driver. It should be called before the game ..." alt="" coords="175,5,328,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,22,328,22,328,17,361,17"/>
+<area shape="rect" id="Node000004" href="$d8/dfd/proj_8c.html#af244d65e69677cf312af1950452ec256" title=" " alt="" coords="5,5,127,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,22,127,22,127,17,159,17"/>
+</map>

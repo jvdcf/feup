@@ -1,0 +1,13 @@
+<map id="mouse.h" name="mouse.h">
+<area shape="rect" id="Node000001" title="Declarations of the functions related to the mouse driver." alt="" coords="16,5,93,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,157,97,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,35,25,56,10,82,8,98,13,114,32,144,27,147,8,116,3,98,5,80,20,53,38,32"/>
+<area shape="rect" id="Node000003" href="$d5/d60/utils_8h.html" title="Declarations of utility functions." alt="" coords="114,81,219,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,31,136,70,133,75,73,36"/>
+<area shape="rect" id="Node000005" href="$da/d6a/i8042_8h.html" title="Constants and functions for dealing with the i8042 KBC." alt="" coords="20,81,89,109"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="57,34,57,65,52,65,52,34"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="148,111,88,150,85,146,145,107"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="131,157,202,184"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="169,109,169,141,164,141,164,109"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="57,109,57,141,52,141,52,109"/>
+</map>

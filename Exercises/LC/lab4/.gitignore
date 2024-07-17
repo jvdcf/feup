@@ -1,0 +1,9 @@
+lab4
+lab4.o
+mouse.o
+utils.o
+i8042.o
+timer.o
+.gdbinit
+output.txt
+trace.txt
