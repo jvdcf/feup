@@ -1,0 +1,10 @@
+<map id="timer.c" name="timer.c">
+<area shape="rect" id="Node000001" title="Implementation of the driver functions related to the i8254 timer." alt="" coords="40,5,107,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,157,126,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,36,35,50,19,68,9,87,12,108,27,129,47,146,44,150,23,132,7,110,4,86,15,65,32,46,51,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,81,126,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,34,76,65,71,65,71,34"/>
+<area shape="rect" id="Node000004" href="$d7/ddf/i8254_8h.html" title=" " alt="" coords="149,81,219,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,31,154,70,151,75,92,36"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="168,111,115,150,112,145,165,107"/>
+</map>

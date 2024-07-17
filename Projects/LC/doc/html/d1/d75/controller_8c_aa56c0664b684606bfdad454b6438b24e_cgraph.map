@@ -1,0 +1,41 @@
+<map id="sm_waiting_turn" name="sm_waiting_turn">
+<area shape="rect" id="Node000001" title="In the WaitingTurn state, draw only the boards." alt="" coords="5,185,135,213"/>
+<area shape="rect" id="Node000002" href="$d3/d91/utils_8c.html#ae3d4e23b24e8d9748ca5a107a7340195" title=" " alt="" coords="195,159,257,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,185,179,178,180,183,135,191"/>
+<area shape="rect" id="Node000003" href="$da/d97/view_8c.html#a883a363f77b8f4b87dbc22f8f7ab333c" title=" " alt="" coords="183,211,269,238"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,207,168,212,167,218,135,212"/>
+<area shape="rect" id="Node000004" href="$da/d97/view_8c.html#a7c8dca8d144c462fedfc67b722146662" title=" " alt="" coords="317,211,414,238"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,222,302,222,302,227,269,227"/>
+<area shape="rect" id="Node000011" href="$da/d97/view_8c.html#a242f8bd0cbab387351fca4fa86b30066" title=" " alt="" coords="492,364,582,392"/>
+<area shape="poly" id="edge14_Node000003_Node000011" title=" " alt="" coords="257,237,494,354,492,359,255,241"/>
+<area shape="rect" id="Node000012" href="$da/d97/view_8c.html#ad1b73881bdcc105df77f0257af34b911" title=" " alt="" coords="490,416,584,444"/>
+<area shape="poly" id="edge17_Node000003_Node000012" title=" " alt="" coords="240,237,274,275,319,317,388,364,463,401,479,408,477,412,461,406,385,369,315,321,270,279,236,240"/>
+<area shape="rect" id="Node000013" href="$da/d97/view_8c.html#a014e8d93340ee176a92b241e7130265b" title=" " alt="" coords="462,5,612,33"/>
+<area shape="poly" id="edge20_Node000003_Node000013" title=" " alt="" coords="249,208,267,196,315,158,387,110,461,64,499,39,502,44,464,68,390,114,319,163,271,200,252,212"/>
+<area shape="rect" id="Node000014" href="$da/d97/view_8c.html#ac668478fe2a7b8b99585c17eef8ba65e" title=" " alt="" coords="464,107,610,134"/>
+<area shape="poly" id="edge23_Node000003_Node000014" title=" " alt="" coords="269,208,478,137,480,142,270,213"/>
+<area shape="rect" id="Node000005" href="$da/d97/view_8c.html#a53cc9ae99ad7056562211e1a1b282f9e" title=" " alt="" coords="498,211,576,238"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,222,483,222,483,227,415,227"/>
+<area shape="rect" id="Node000006" href="$d7/de9/group__video.html#ga00c47c578456d75117adea681e3d07fa" title=" " alt="" coords="660,263,757,290"/>
+<area shape="poly" id="edge11_Node000004_Node000006" title=" " alt="" coords="381,237,415,271,438,287,463,299,512,310,562,310,610,303,652,293,654,298,611,308,562,315,511,315,461,304,435,292,412,275,377,241"/>
+<area shape="rect" id="Node000008" href="$d7/de9/group__video.html#ga22b4d43f7ba31db20cfb211a453415f4" title=" " alt="" coords="665,211,752,238"/>
+<area shape="poly" id="edge13_Node000004_Node000008" title=" " alt="" coords="370,209,382,182,401,150,428,118,461,93,502,76,537,70,572,76,613,93,642,113,666,140,698,195,693,198,662,144,639,117,610,97,571,81,537,75,503,81,464,97,431,121,406,153,387,185,375,211"/>
+<area shape="rect" id="Node000009" href="$da/d97/view_8c.html#af468f085734ee223059917a9e8aa363e" title=" " alt="" coords="491,263,583,290"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="415,236,477,256,475,261,413,242"/>
+<area shape="rect" id="Node000010" href="$d1/dd6/model_8c.html#abe823b17e56b5d240aa05c467c15db7d" title="Get a pointer to a specific coordinate in a board (player or enemy)." alt="" coords="494,159,580,186"/>
+<area shape="poly" id="edge12_Node000004_Node000010" title=" " alt="" coords="413,207,479,187,481,192,415,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="577,234,647,255,645,260,575,239"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="576,222,649,222,649,227,576,227"/>
+<area shape="rect" id="Node000007" href="$d7/de9/group__video.html#gac6e5a088ef0e0d4b14d82f020d7243ab" title=" " alt="" coords="805,263,897,290"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="758,274,789,274,789,279,758,279"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="583,274,644,274,644,279,583,279"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="582,260,650,239,651,245,584,265"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="574,361,610,344,677,298,680,302,613,348,577,366"/>
+<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="550,362,610,300,633,273,658,249,664,245,667,249,661,253,636,277,614,304,554,366"/>
+<area shape="poly" id="edge18_Node000012_Node000006" title=" " alt="" coords="583,415,610,401,635,379,657,353,690,303,695,306,662,356,639,382,613,405,586,420"/>
+<area shape="poly" id="edge19_Node000012_Node000008" title=" " alt="" coords="583,418,610,401,624,383,631,365,635,328,638,290,644,270,658,250,660,246,664,250,662,253,649,273,643,291,640,329,636,366,628,386,613,405,586,422"/>
+<area shape="poly" id="edge21_Node000013_Node000006" title=" " alt="" coords="558,32,587,59,614,94,625,116,631,137,635,174,641,210,648,228,662,248,664,251,660,255,658,251,644,231,636,211,630,175,626,138,620,118,609,97,583,62,555,36"/>
+<area shape="poly" id="edge22_Node000013_Node000008" title=" " alt="" coords="586,31,613,49,644,84,669,124,700,195,696,197,664,126,640,87,610,53,583,36"/>
+<area shape="poly" id="edge24_Node000014_Node000006" title=" " alt="" coords="595,133,614,145,632,171,639,197,645,222,662,248,665,251,661,255,658,251,640,224,634,198,628,174,610,149,592,137"/>
+<area shape="poly" id="edge25_Node000014_Node000008" title=" " alt="" coords="586,132,613,145,651,171,684,198,680,202,648,175,610,149,584,137"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sp_push_byte" name="sp_push_byte">
+<area shape="rect" id="Node000001" title="Pushes a byte to the output buffer." alt="" coords="5,49,116,76"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c" title="Write an element to the ring buffer." alt="" coords="164,49,294,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,60,148,60,148,65,116,65"/>
+<area shape="rect" id="Node000003" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="342,5,491,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,48,326,42,327,47,295,53"/>
+<area shape="rect" id="Node000004" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="342,75,491,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="295,72,327,78,326,83,294,77"/>
+</map>

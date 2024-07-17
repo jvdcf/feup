@@ -1,0 +1,9 @@
+<map id="_sp_recv" name="_sp_recv">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,84,76"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c" title="Write an element to the ring buffer." alt="" coords="132,49,262,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,60,116,60,116,65,84,65"/>
+<area shape="rect" id="Node000003" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="310,5,459,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,48,294,42,295,47,263,53"/>
+<area shape="rect" id="Node000004" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="310,75,459,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="263,72,295,78,294,83,262,77"/>
+</map>

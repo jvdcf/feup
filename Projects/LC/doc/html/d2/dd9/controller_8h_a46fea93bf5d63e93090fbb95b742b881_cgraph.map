@@ -1,0 +1,47 @@
+<map id="game_loop" name="game_loop">
+<area shape="rect" id="Node000001" title="Where all the interruptions and the state machine are handled. It closes when the user presses ESC." alt="" coords="5,185,99,213"/>
+<area shape="rect" id="Node000002" href="$d9/d91/group__keyboard.html#gaa697d6ca7d66dfb5391d3a98b3dbc96a" title=" " alt="" coords="147,29,253,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,184,92,129,116,97,145,68,150,64,154,68,148,72,120,101,96,132,63,186"/>
+<area shape="rect" id="Node000003" href="$d9/d91/group__keyboard.html#ga6445474fbe11254f5c5a51698251c9a3" title=" " alt="" coords="163,81,237,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,183,164,116,168,121,75,187"/>
+<area shape="rect" id="Node000006" href="$d0/df6/group__mouse.html#ga35e33d7945f1ce6382524056ca713e7d" title="Next interrupt handling state." alt="" coords="161,159,239,186"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="99,188,145,180,146,185,100,193"/>
+<area shape="rect" id="Node000011" href="$d9/d91/group__keyboard.html#ga2edabcbd6bb15dadaefaa96d8d1db2e3" title=" " alt="" coords="149,211,251,238"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="100,205,134,211,133,216,99,210"/>
+<area shape="rect" id="Node000012" href="$d0/ddb/drv_8c.html#aef7ba8205d954e58b3ee5c6e31f560f3" title="Updates the status and contents of the serial port driver. Used with polling." alt="" coords="166,263,234,290"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="81,211,148,247,158,253,156,258,145,252,78,216"/>
+<area shape="rect" id="Node000022" href="$d7/de9/group__video.html#gadb2ea47f87118f2bcbc80ac5fa29392e" title=" " alt="" coords="162,315,238,342"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="66,212,100,254,148,300,155,304,152,309,145,304,96,258,62,215"/>
+<area shape="rect" id="Node000004" href="$de/dbd/keyboard_8c.html#afa724eed52c0ff94cbc9b3f0149786ce" title=" " alt="" coords="334,5,397,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,78,318,38,321,42,233,83"/>
+<area shape="rect" id="Node000005" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="687,107,786,134"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="237,91,398,90,503,92,609,99,672,107,671,112,608,104,503,98,398,95,237,97"/>
+<area shape="rect" id="Node000007" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="301,107,430,134"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="238,158,304,137,306,142,240,163"/>
+<area shape="rect" id="Node000009" href="$db/d9f/mouse_8c.html#ad739c347ab2e83a94360dbe253e286b2" title=" " alt="" coords="324,159,408,186"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="239,170,308,170,308,175,239,175"/>
+<area shape="rect" id="Node000010" href="$d0/df6/group__mouse.html#gace3931eb042fd6f63dcd742890d6121b" title="Parse the 3 mouse bytes into a packet." alt="" coords="324,211,408,238"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="240,182,310,204,308,209,238,187"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="431,118,672,118,672,123,431,123"/>
+<area shape="rect" id="Node000008" href="$d9/d6c/group__i8042.html#gaa4c58a11cd49c54cc0eb02a79010a9cc" title="Reads the status of the KBC." alt="" coords="480,157,607,185"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="417,132,479,150,477,155,416,137"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="598,154,671,135,673,140,600,159"/>
+<area shape="rect" id="Node000013" href="$d0/ddb/drv_8c.html#aa6571d5d8e1cba1854c13b8024cd7bb4" title=" " alt="" coords="327,263,405,290"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="234,274,311,274,311,279,234,279"/>
+<area shape="rect" id="Node000017" href="$d0/ddb/drv_8c.html#af1b7b34960dc8187e2db23953c342643" title=" " alt="" coords="321,315,411,342"/>
+<area shape="poly" id="edge18_Node000012_Node000017" title=" " alt="" coords="235,284,306,307,305,312,233,289"/>
+<area shape="rect" id="Node000019" href="$d0/ddb/drv_8c.html#a6d419fceb97e169aa2c81a7df5c49609" title=" " alt="" coords="328,367,403,394"/>
+<area shape="poly" id="edge20_Node000012_Node000019" title=" " alt="" coords="235,289,255,301,269,315,279,327,288,339,303,352,315,359,312,364,299,356,284,343,275,330,265,318,251,305,232,293"/>
+<area shape="rect" id="Node000014" href="$d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c" title="Write an element to the ring buffer." alt="" coords="478,263,609,290"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="405,274,463,274,463,279,405,279"/>
+<area shape="rect" id="Node000015" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="662,206,811,251"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="601,260,646,248,647,253,603,265"/>
+<area shape="rect" id="Node000016" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="662,276,811,320"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="610,281,647,285,646,291,609,286"/>
+<area shape="rect" id="Node000018" href="$d0/ddb/drv_8c.html#a91fbba6e33ab4e0dd0aaa0c27c74f6eb" title=" " alt="" coords="480,315,607,342"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="411,326,465,326,465,331,411,331"/>
+<area shape="rect" id="Node000020" href="$d4/d77/ringbuffer_8c.html#a5a002482ded2767d23f7d277d70f797e" title="Read an element from the ring buffer." alt="" coords="482,367,605,394"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="404,378,467,378,467,383,404,383"/>
+<area shape="rect" id="Node000021" href="$d4/d77/ringbuffer_8c.html#a2172504a7cc31f03500be7da803ba645" title="Check if the ring buffer is empty, i.e., if the read and write heads are at the same position." alt="" coords="657,367,816,394"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="606,378,641,378,641,383,606,383"/>
+</map>

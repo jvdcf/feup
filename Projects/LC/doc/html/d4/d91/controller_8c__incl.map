@@ -1,0 +1,63 @@
+<map id="controller.c" name="controller.c">
+<area shape="rect" id="Node000001" title="Implementation of all the functions executed in every iteration of the game loop." alt="" coords="321,5,415,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="603,308,688,336"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,26,251,35,168,57,126,75,87,97,51,124,23,158,14,177,9,203,11,233,16,246,25,258,53,272,107,283,265,301,443,311,588,316,588,322,443,317,265,306,106,288,51,277,21,262,12,249,6,234,3,203,9,175,18,155,48,121,84,92,124,70,166,52,250,30,321,20"/>
+<area shape="rect" id="Node000003" href="$dc/d51/model_8h.html" title="The declaration of all the data structures and functions related to the game in this MVC architecture..." alt="" coords="331,157,405,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="371,33,371,141,366,141,366,33"/>
+<area shape="rect" id="Node000004" href="$d3/dda/view_8h.html" title="Definitions of all the drawing functions, i.e., the view of this MVC architecture." alt="" coords="265,81,328,109"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="357,35,321,72,318,68,354,32"/>
+<area shape="rect" id="Node000011" href="$d2/dd9/controller_8h.html" title="Definition of the game state machine and the controller in this MVC architecture." alt="" coords="681,81,776,109"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="417,28,666,78,665,83,416,33"/>
+<area shape="rect" id="Node000012" href="$d5/d60/utils_8h.html" title="Declarations of utility functions." alt="" coords="1092,232,1186,260"/>
+<area shape="poly" id="edge41_Node000001_Node000012" title=" " alt="" coords="416,18,586,24,697,31,814,43,928,60,1031,84,1075,98,1114,115,1145,134,1168,155,1175,171,1174,188,1160,221,1156,218,1169,187,1170,172,1163,158,1142,138,1111,120,1073,103,1029,89,927,66,813,49,696,37,585,29,416,24"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="383,183,423,219,476,258,533,284,589,303,587,308,531,289,474,262,419,224,379,187"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="299,109,305,144,311,164,321,183,347,213,378,238,413,259,449,276,523,300,588,312,587,317,522,305,447,281,410,264,375,243,343,217,317,186,306,167,300,146,294,110"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="311,107,347,144,343,147,307,111"/>
+<area shape="rect" id="Node000005" href="$dd/d78/video_8h.html" title="Declarations of functions related to the graphics card driver." alt="" coords="430,157,539,184"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="330,106,437,148,435,153,328,111"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="138,157,257,184"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="280,111,229,150,225,145,277,107"/>
+<area shape="rect" id="Node000008" href="$d1/db3/pixmap_8h.html" title="A list of all the xpm&#39;s used in the project." alt="" coords="32,157,115,184"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="265,109,129,154,127,149,264,104"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="484,185,482,221,486,241,494,258,514,278,537,292,589,310,587,315,535,297,510,282,490,262,481,242,477,221,479,185"/>
+<area shape="rect" id="Node000006" href="$d6/d28/vbe_8h.html" title="Constants and functions for dealing with the VBE standard." alt="" coords="504,232,561,260"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="495,183,518,218,513,221,491,186"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="554,258,614,297,611,302,551,263"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="34,232,108,260"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="76,185,75,217,69,217,70,185"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="131,232,229,260"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="94,183,150,221,147,226,91,187"/>
+<area shape="poly" id="edge16_Node000011_Node000002" title=" " alt="" coords="716,111,669,161,645,195,627,233,624,248,625,264,634,293,629,295,620,265,619,248,622,232,640,193,664,158,712,107"/>
+<area shape="poly" id="edge37_Node000011_Node000005" title=" " alt="" coords="685,112,543,154,541,149,684,107"/>
+<area shape="poly" id="edge36_Node000011_Node000006" title=" " alt="" coords="695,112,653,131,610,159,578,190,552,221,548,218,574,186,607,155,650,127,693,107"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="776,93,869,95,979,103,1033,111,1081,122,1119,136,1145,155,1153,170,1156,186,1152,218,1146,217,1151,186,1148,171,1141,158,1117,141,1079,127,1032,116,979,109,869,100,776,98"/>
+<area shape="rect" id="Node000014" href="$d7/ddf/i8254_8h.html" title=" " alt="" coords="637,232,745,260"/>
+<area shape="poly" id="edge20_Node000011_Node000014" title=" " alt="" coords="726,110,712,157,699,218,693,217,707,156,721,108"/>
+<area shape="rect" id="Node000015" href="$d5/dd0/timer_8h.html" title=" " alt="" coords="1256,157,1363,184"/>
+<area shape="poly" id="edge22_Node000011_Node000015" title=" " alt="" coords="777,100,1241,158,1240,163,776,105"/>
+<area shape="rect" id="Node000017" href="$da/d6a/i8042_8h.html" title="Constants and functions for dealing with the i8042 KBC." alt="" coords="820,232,916,260"/>
+<area shape="poly" id="edge25_Node000011_Node000017" title=" " alt="" coords="731,109,738,145,745,165,756,183,782,206,813,224,810,228,779,211,752,186,740,167,732,146,726,109"/>
+<area shape="rect" id="Node000018" href="$d6/da0/keyboard_8h.html" title="Declarations of functions related to the keyboard driver." alt="" coords="893,157,1014,184"/>
+<area shape="poly" id="edge27_Node000011_Node000018" title=" " alt="" coords="769,107,900,149,898,154,768,112"/>
+<area shape="rect" id="Node000019" href="$dc/ded/mouse_8h.html" title="Declarations of the functions related to the mouse driver." alt="" coords="765,157,870,184"/>
+<area shape="poly" id="edge32_Node000011_Node000019" title=" " alt="" coords="746,107,792,145,788,149,743,111"/>
+<area shape="rect" id="Node000020" href="$d8/d5c/drv_8h.html" title="Declaration of the serial port driver." alt="" coords="1038,157,1131,184"/>
+<area shape="poly" id="edge38_Node000011_Node000020" title=" " alt="" coords="777,103,1023,154,1022,159,776,108"/>
+<area shape="poly" id="edge18_Node000012_Node000002" title=" " alt="" coords="1092,257,703,315,703,309,1091,252"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1104,308,1174,336"/>
+<area shape="poly" id="edge19_Node000012_Node000013" title=" " alt="" coords="1142,261,1142,292,1136,292,1136,261"/>
+<area shape="poly" id="edge21_Node000014_Node000002" title=" " alt="" coords="685,262,664,296,659,293,681,259"/>
+<area shape="poly" id="edge24_Node000015_Node000013" title=" " alt="" coords="1315,184,1319,221,1316,242,1306,262,1282,285,1252,302,1221,313,1190,319,1189,314,1219,308,1250,297,1279,281,1302,258,1311,241,1314,221,1310,185"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1210,232,1292,260"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="1301,187,1273,222,1269,218,1297,183"/>
+<area shape="poly" id="edge26_Node000017_Node000002" title=" " alt="" coords="829,263,701,305,699,300,828,258"/>
+<area shape="poly" id="edge28_Node000018_Node000002" title=" " alt="" coords="956,185,951,223,943,244,930,262,914,273,891,283,832,298,704,318,703,312,831,293,889,278,911,268,926,258,939,241,946,222,951,184"/>
+<area shape="poly" id="edge29_Node000018_Node000012" title=" " alt="" coords="988,182,1093,224,1091,229,986,187"/>
+<area shape="poly" id="edge31_Node000018_Node000013" title=" " alt="" coords="971,182,1113,296,1109,300,968,187"/>
+<area shape="poly" id="edge30_Node000018_Node000017" title=" " alt="" coords="940,187,897,224,893,220,937,183"/>
+<area shape="poly" id="edge33_Node000019_Node000002" title=" " alt="" coords="814,186,792,222,759,262,727,286,694,304,691,299,725,281,756,258,788,219,809,183"/>
+<area shape="poly" id="edge34_Node000019_Node000012" title=" " alt="" coords="871,181,1078,228,1076,233,870,186"/>
+<area shape="poly" id="edge35_Node000019_Node000017" title=" " alt="" coords="829,183,853,218,848,221,824,186"/>
+<area shape="poly" id="edge39_Node000020_Node000002" title=" " alt="" coords="1071,187,1022,225,990,245,956,262,890,285,822,301,704,319,703,314,821,296,889,280,954,258,988,241,1019,220,1068,183"/>
+<area shape="poly" id="edge40_Node000020_Node000012" title=" " alt="" coords="1096,183,1122,218,1118,221,1092,186"/>
+</map>

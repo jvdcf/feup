@@ -1,0 +1,33 @@
+<map id="_sp_read_status" name="_sp_read_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="826,57,952,85"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#af1b7b34960dc8187e2db23953c342643" title=" " alt="" coords="688,57,778,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="811,74,779,74,779,69,811,69"/>
+<area shape="rect" id="Node000003" href="$d0/ddb/drv_8c.html#a90c49d2671e5b39e061f07e20e3c0042" title=" " alt="" coords="578,5,634,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="682,53,633,33,635,28,684,48"/>
+<area shape="rect" id="Node000004" href="$d0/ddb/drv_8c.html#afa6d1fa2cf60fd281c84c56f79a4ddaa" title="Initializes the serial port driver." alt="" coords="574,57,638,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="672,74,639,74,639,69,672,69"/>
+<area shape="rect" id="Node000007" href="$d0/ddb/drv_8c.html#aef7ba8205d954e58b3ee5c6e31f560f3" title="Updates the status and contents of the serial port driver. Used with polling." alt="" coords="572,160,640,188"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="704,97,627,161,623,157,701,93"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0" title="Populates the controller variables and initializes every driver. It should be called before the game ..." alt="" coords="355,7,508,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="558,60,524,50,482,38,484,32,525,45,559,55"/>
+<area shape="rect" id="Node000006" href="$d8/dfd/proj_8c.html#af244d65e69677cf312af1950452ec256" title=" " alt="" coords="158,33,279,61"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="340,35,280,42,279,37,340,29"/>
+<area shape="rect" id="Node000008" href="$d1/d75/controller_8c.html#a46fea93bf5d63e93090fbb95b742b881" title="Where all the interruptions and the state machine are handled. It closes when the user presses ESC." alt="" coords="385,59,478,86"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="579,151,553,128,523,107,478,87,480,82,526,102,556,124,583,147"/>
+<area shape="rect" id="Node000009" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="146,188,291,216"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="557,159,524,151,431,140,391,142,340,151,288,168,245,190,243,185,286,163,338,146,390,137,431,135,525,146,558,154"/>
+<area shape="rect" id="Node000012" href="$d1/d75/controller_8c.html#a07eb1023ba6520985c3123f6b77212ff" title="In the WaitingSelect state, communicate with the other computer to see who plays first." alt="" coords="339,160,524,188"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="557,177,525,177,525,171,557,171"/>
+<area shape="rect" id="Node000013" href="$d1/d75/controller_8c.html#a7c5ce8bd5fd68c607f42500b7cfbfe63" title="In the WaitingTurn state, receive the attack and communicate the result." alt="" coords="346,212,518,240"/>
+<area shape="poly" id="edge13_Node000007_Node000013" title=" " alt="" coords="558,191,525,202,484,214,483,209,524,197,557,186"/>
+<area shape="rect" id="Node000014" href="$d0/ddb/drv_8c.html#a97a894571f724589ccd012359b677c25" title="Waits until the output buffer is empty, i.e., all bytes have been sent." alt="" coords="351,264,513,292"/>
+<area shape="poly" id="edge14_Node000007_Node000014" title=" " alt="" coords="586,201,559,229,526,253,498,266,496,261,523,249,556,225,582,197"/>
+<area shape="rect" id="Node000015" href="$d0/ddb/drv_8c.html#a2dc4f395ab8f56171e16c94208b7d9c3" title="Waits until a packet is received." alt="" coords="340,316,524,344"/>
+<area shape="poly" id="edge15_Node000007_Node000015" title=" " alt="" coords="596,204,570,256,550,282,526,305,504,318,501,313,523,301,546,279,565,253,592,201"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="369,68,279,57,280,52,370,63"/>
+<area shape="rect" id="Node000010" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="5,161,98,189"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="130,190,98,185,99,180,131,185"/>
+<area shape="rect" id="Node000011" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="10,213,93,241"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="131,218,94,224,93,218,130,213"/>
+<area shape="poly" id="edge16_Node000015_Node000009" title=" " alt="" coords="353,313,338,306,305,285,275,261,231,218,234,214,279,257,308,281,340,301,355,308"/>
+</map>

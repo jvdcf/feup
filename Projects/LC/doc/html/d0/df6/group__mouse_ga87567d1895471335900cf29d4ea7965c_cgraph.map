@@ -1,0 +1,19 @@
+<map id="ms_sample_rate" name="ms_sample_rate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,135,85"/>
+<area shape="rect" id="Node000002" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="183,5,312,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,54,182,35,184,40,121,59"/>
+<area shape="rect" id="Node000005" href="$d9/d6c/group__i8042.html#ga8d36cab0fb2f7286885dab3ef79ea03b" title="Writes a command to command register of the KBC." alt="" coords="188,109,307,137"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="121,83,184,102,182,107,119,88"/>
+<area shape="rect" id="Node000007" href="$d9/d6c/group__i8042.html#ga17359167485009c0c7e004ef44a907ec" title="Writes a command to the input buffer of the KBC." alt="" coords="185,57,310,85"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="135,69,170,69,170,74,135,74"/>
+<area shape="rect" id="Node000003" href="$d9/d6c/group__i8042.html#gaa4c58a11cd49c54cc0eb02a79010a9cc" title="Reads the status of the KBC." alt="" coords="360,57,487,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,31,360,50,359,55,296,36"/>
+<area shape="rect" id="Node000004" href="$d3/d91/utils_8c.html#a2b56f50ba159e9d5115ed1a75eff15d9" title=" " alt="" coords="535,32,634,60"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="313,22,520,38,519,43,312,27"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,58,520,53,520,59,488,64"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="296,106,359,87,360,92,298,111"/>
+<area shape="rect" id="Node000006" href="$d3/d91/utils_8c.html#aea7066187a4d4db05f060133215c78ed" title=" " alt="" coords="370,109,477,137"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="307,121,354,121,354,126,307,126"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="310,69,345,69,345,74,310,74"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="298,83,360,102,359,107,296,88"/>
+</map>

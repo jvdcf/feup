@@ -1,0 +1,29 @@
+<map id="sm_serial_waiting_select" name="sm_serial_waiting_select">
+<area shape="rect" id="Node000001" title="In the WaitingSelect state, communicate with the other computer to see who plays first." alt="" coords="5,101,191,128"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html#aef7ba8205d954e58b3ee5c6e31f560f3" title="Updates the status and contents of the serial port driver. Used with polling." alt="" coords="260,101,328,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,112,245,112,245,117,191,117"/>
+<area shape="rect" id="Node000012" href="$d0/ddb/drv_8c.html#abbf46f98b2839d9cb61571e8a576adde" title="Pops a byte from the input buffer." alt="" coords="242,178,346,206"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="136,126,244,169,242,174,134,131"/>
+<area shape="rect" id="Node000013" href="$d0/ddb/drv_8c.html#a12d8e8682a234ed51f1c3cbf7b389671" title="Pushes a byte to the output buffer." alt="" coords="239,23,349,51"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="134,97,242,54,244,59,136,102"/>
+<area shape="rect" id="Node000003" href="$d0/ddb/drv_8c.html#aa6571d5d8e1cba1854c13b8024cd7bb4" title=" " alt="" coords="403,49,481,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,100,387,79,389,84,329,105"/>
+<area shape="rect" id="Node000007" href="$d0/ddb/drv_8c.html#af1b7b34960dc8187e2db23953c342643" title=" " alt="" coords="397,101,487,128"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="328,112,382,112,382,117,328,117"/>
+<area shape="rect" id="Node000009" href="$d0/ddb/drv_8c.html#a6d419fceb97e169aa2c81a7df5c49609" title=" " alt="" coords="405,153,480,180"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="329,123,391,146,389,151,327,129"/>
+<area shape="rect" id="Node000004" href="$d4/d77/ringbuffer_8c.html#a37044119e5607b2c0717ef9da5227d8c" title="Write an element to the ring buffer." alt="" coords="535,26,666,54"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,54,520,49,521,54,482,59"/>
+<area shape="rect" id="Node000005" href="$d4/d77/ringbuffer_8c.html#afea21d3d6f6a3cceb364a04c410f71c7" title="Reallocates the buffer to 50% more space." alt="" coords="719,5,868,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="666,33,703,31,704,36,666,38"/>
+<area shape="rect" id="Node000006" href="$d4/d77/ringbuffer_8c.html#ad8b8565204ea355189ad22ef69f4704d" title="Grows the buffer to 50% more space without moving the data." alt="" coords="719,75,868,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="651,52,704,68,703,73,649,57"/>
+<area shape="rect" id="Node000008" href="$d0/ddb/drv_8c.html#a91fbba6e33ab4e0dd0aaa0c27c74f6eb" title=" " alt="" coords="537,101,664,128"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="488,112,522,112,522,117,488,117"/>
+<area shape="rect" id="Node000010" href="$d4/d77/ringbuffer_8c.html#a5a002482ded2767d23f7d277d70f797e" title="Read an element from the ring buffer." alt="" coords="539,165,662,192"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="481,167,524,170,523,175,480,172"/>
+<area shape="rect" id="Node000011" href="$d4/d77/ringbuffer_8c.html#a2172504a7cc31f03500be7da803ba645" title="Check if the ring buffer is empty, i.e., if the read and write heads are at the same position." alt="" coords="714,165,873,192"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="663,176,698,176,698,181,663,181"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="346,191,487,189,523,186,524,191,487,194,346,196"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="349,34,487,34,520,35,520,40,487,40,349,39"/>
+</map>

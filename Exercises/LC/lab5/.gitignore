@@ -1,0 +1,10 @@
+lab5
+lab5.o
+video.o
+utils.o
+vbe.o
+keyboard.o
+timer.o
+.gdbinit
+output.txt
+trace.txt

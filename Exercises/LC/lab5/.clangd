@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: 
+    - -I /home/lvx/Projects/Aulas/LCOM/shared/.minix-src/include/
+    - -D__minix
+    - -D__i386__
+    - -D_MINIX
+    - -D_NETBSD_SOURCE
+  

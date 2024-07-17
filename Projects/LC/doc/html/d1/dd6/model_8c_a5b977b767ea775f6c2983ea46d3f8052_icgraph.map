@@ -1,0 +1,5 @@
+<map id="new_game" name="new_game">
+<area shape="rect" id="Node000001" title="Initializes a new game struct." alt="" coords="184,5,276,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a4266b3d20ae07db3267f6a268b5d88e2" title="In the SelectBoats state, randomly select the positions for the 8 boats." alt="" coords="5,5,136,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,22,136,22,136,17,168,17"/>
+</map>

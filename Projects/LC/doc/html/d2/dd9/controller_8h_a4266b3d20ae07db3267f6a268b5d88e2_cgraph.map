@@ -1,0 +1,11 @@
+<map id="sm_select_boats" name="sm_select_boats">
+<area shape="rect" id="Node000001" title="In the SelectBoats state, randomly select the positions for the 8 boats." alt="" coords="5,57,136,85"/>
+<area shape="rect" id="Node000002" href="$d1/dd6/model_8c.html#a1ce1e67897b787661b65041ca25a4a36" title="Add a boat to the player board." alt="" coords="196,5,277,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,54,180,34,182,39,118,59"/>
+<area shape="rect" id="Node000004" href="$d1/dd6/model_8c.html#a43b1552f066a74f71a43b039042ae59f" title="Print the game struct to the terminal." alt="" coords="184,57,289,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,69,168,69,168,74,136,74"/>
+<area shape="rect" id="Node000005" href="$d1/dd6/model_8c.html#a5b977b767ea775f6c2983ea46d3f8052" title="Initializes a new game struct." alt="" coords="190,109,283,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="118,83,176,102,175,107,116,88"/>
+<area shape="rect" id="Node000003" href="$d1/dd6/model_8c.html#abe823b17e56b5d240aa05c467c15db7d" title="Get a pointer to a specific coordinate in a board (player or enemy)." alt="" coords="337,5,422,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,17,321,17,321,22,278,22"/>
+</map>

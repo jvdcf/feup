@@ -1,0 +1,44 @@
+<map id="draw_sprite" name="draw_sprite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="726,263,823,290"/>
+<area shape="rect" id="Node000002" href="$da/d97/view_8c.html#a7c8dca8d144c462fedfc67b722146662" title=" " alt="" coords="361,340,458,368"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,306,732,361,708,388,679,408,646,420,612,424,577,422,543,415,481,394,434,371,436,366,483,389,544,410,578,417,612,419,645,415,676,403,705,384,728,357,759,303"/>
+<area shape="rect" id="Node000006" href="$da/d97/view_8c.html#a242f8bd0cbab387351fca4fa86b30066" title=" " alt="" coords="365,5,454,33"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="765,248,755,208,738,161,712,114,695,93,676,75,650,58,623,45,563,28,504,20,455,19,455,14,505,15,564,22,624,40,653,53,679,70,699,89,716,111,743,159,760,207,771,247"/>
+<area shape="rect" id="Node000007" href="$da/d97/view_8c.html#ad1b73881bdcc105df77f0257af34b911" title=" " alt="" coords="363,57,457,85"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="762,249,750,217,732,180,708,144,676,115,650,100,622,88,563,74,506,69,457,70,457,64,507,64,564,69,624,83,653,95,679,110,712,140,737,177,755,214,767,247"/>
+<area shape="rect" id="Node000008" href="$da/d97/view_8c.html#a89f71f34808e62d9bf67fc1d14d032ee" title=" " alt="" coords="563,159,647,186"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="746,254,714,227,676,201,647,188,649,183,679,197,717,223,749,250"/>
+<area shape="rect" id="Node000010" href="$da/d97/view_8c.html#a014e8d93340ee176a92b241e7130265b" title=" " alt="" coords="335,109,484,137"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="759,250,727,196,704,170,676,149,630,130,580,120,530,116,485,117,485,111,531,111,581,114,631,125,679,145,707,166,731,193,763,247"/>
+<area shape="rect" id="Node000011" href="$da/d97/view_8c.html#a53cc9ae99ad7056562211e1a1b282f9e" title=" " alt="" coords="566,315,644,342"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="713,298,645,319,643,314,711,293"/>
+<area shape="rect" id="Node000012" href="$da/d97/view_8c.html#a6b526e534c83d081421834fe0525250b" title=" " alt="" coords="556,263,654,290"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="710,279,654,279,654,274,710,274"/>
+<area shape="rect" id="Node000014" href="$da/d97/view_8c.html#af468f085734ee223059917a9e8aa363e" title=" " alt="" coords="559,367,651,394"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="749,303,717,330,679,356,652,369,650,364,676,352,714,326,746,299"/>
+<area shape="rect" id="Node000015" href="$da/d97/view_8c.html#aa9cfa752551aa3ff30fad5e77636a38f" title=" " alt="" coords="183,365,287,393"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="767,306,755,337,736,371,711,404,679,429,624,452,566,461,506,461,447,454,392,442,341,426,265,396,267,391,343,421,393,436,448,449,506,456,565,456,623,446,676,425,708,400,732,368,750,334,762,304"/>
+<area shape="rect" id="Node000016" href="$da/d97/view_8c.html#ac668478fe2a7b8b99585c17eef8ba65e" title=" " alt="" coords="532,211,678,238"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="711,260,652,241,653,236,713,255"/>
+<area shape="rect" id="Node000017" href="$da/d97/view_8c.html#a093895f660baafb6765e50edf790791f" title=" " alt="" coords="532,519,678,546"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="770,306,760,349,742,401,716,454,680,502,654,520,651,516,676,499,711,452,737,399,755,347,765,305"/>
+<area shape="rect" id="Node000003" href="$da/d97/view_8c.html#a883a363f77b8f4b87dbc22f8f7ab333c" title=" " alt="" coords="192,161,278,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,333,333,304,280,243,243,191,248,188,284,240,337,300,373,329"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#a977b6000b650124008c29c042e12abae" title="In the MyTurn state, draw the boards, the clock and the cursor." alt="" coords="19,264,121,292"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,200,96,266,93,261,197,195"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#aa56c0664b684606bfdad454b6438b24e" title="In the WaitingTurn state, draw only the boards." alt="" coords="5,161,135,189"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="176,178,135,178,135,173,176,173"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="352,39,337,48,306,76,280,107,246,162,241,160,276,104,302,72,333,44,349,34"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="349,94,336,100,289,132,253,163,249,159,286,128,334,96,347,89"/>
+<area shape="rect" id="Node000009" href="$d1/d75/controller_8c.html#a435fc720f66074966e3ea8d245d20d8c" title="In the End state, draw the end menu." alt="" coords="374,161,446,189"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="547,176,446,177,446,172,547,171"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="347,145,279,165,278,160,345,139"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="552,338,459,350,458,345,551,333"/>
+<area shape="rect" id="Node000013" href="$d1/d75/controller_8c.html#a3d4af713ac4d4e2bd9252ff9f6865523" title="In the Menu state, draw the menu." alt="" coords="367,263,452,290"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="541,279,453,279,453,274,541,274"/>
+<area shape="poly" id="edge18_Node000014_Node000002" title=" " alt="" coords="544,375,458,363,459,358,544,370"/>
+<area shape="poly" id="edge20_Node000015_Node000004" title=" " alt="" coords="197,359,93,294,96,290,199,355"/>
+<area shape="poly" id="edge22_Node000016_Node000003" title=" " alt="" coords="517,223,428,216,335,203,278,190,279,185,335,198,429,210,517,218"/>
+<area shape="rect" id="Node000018" href="$d1/d75/controller_8c.html#a256cd97fc7f0bf6415693975460330ef" title="In the WaitingSelect state, draw the waiting menu." alt="" coords="339,519,481,546"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="517,535,481,535,481,530,517,530"/>
+</map>

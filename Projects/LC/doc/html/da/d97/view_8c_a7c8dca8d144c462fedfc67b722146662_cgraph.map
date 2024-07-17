@@ -1,0 +1,19 @@
+<map id="draw_board" name="draw_board">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,103,105"/>
+<area shape="rect" id="Node000002" href="$da/d97/view_8c.html#a53cc9ae99ad7056562211e1a1b282f9e" title=" " alt="" coords="158,77,235,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,88,142,88,142,94,103,94"/>
+<area shape="rect" id="Node000003" href="$d7/de9/group__video.html#ga00c47c578456d75117adea681e3d07fa" title=" " alt="" coords="290,25,387,53"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="65,75,100,41,124,24,150,11,185,4,222,4,257,9,288,17,287,23,256,14,221,9,186,9,152,16,126,29,103,45,69,79"/>
+<area shape="rect" id="Node000005" href="$d7/de9/group__video.html#ga22b4d43f7ba31db20cfb211a453415f4" title=" " alt="" coords="296,77,382,105"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="101,103,151,114,196,118,242,114,280,106,281,111,242,119,196,123,150,119,99,108"/>
+<area shape="rect" id="Node000006" href="$da/d97/view_8c.html#af468f085734ee223059917a9e8aa363e" title=" " alt="" coords="151,25,242,53"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="93,74,141,56,143,61,95,79"/>
+<area shape="rect" id="Node000007" href="$d1/dd6/model_8c.html#abe823b17e56b5d240aa05c467c15db7d" title="Get a pointer to a specific coordinate in a board (player or enemy)." alt="" coords="154,179,239,206"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="77,103,152,158,165,167,161,172,149,163,73,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,75,284,56,286,61,236,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="235,88,280,88,280,94,235,94"/>
+<area shape="rect" id="Node000004" href="$d7/de9/group__video.html#gac6e5a088ef0e0d4b14d82f020d7243ab" title=" " alt="" coords="435,25,528,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,36,420,36,420,42,388,42"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="243,36,274,36,274,42,243,42"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="238,51,285,69,284,74,236,56"/>
+</map>

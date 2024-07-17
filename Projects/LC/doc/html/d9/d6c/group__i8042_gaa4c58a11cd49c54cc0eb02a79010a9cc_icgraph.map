@@ -1,0 +1,38 @@
+<map id="kbc_read_status" name="kbc_read_status">
+<area shape="rect" id="Node000001" title="Reads the status of the KBC." alt="" coords="873,57,1000,85"/>
+<area shape="rect" id="Node000002" href="$d9/d6c/group__i8042.html#ga6118ac32c78a67633294e47e6dadbcad" title="Reads the output buffer of the KBC." alt="" coords="696,109,825,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,93,811,111,809,106,872,87"/>
+<area shape="rect" id="Node000013" href="$d9/d6c/group__i8042.html#ga8d36cab0fb2f7286885dab3ef79ea03b" title="Writes a command to command register of the KBC." alt="" coords="701,57,820,85"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="858,74,820,74,820,69,858,69"/>
+<area shape="rect" id="Node000014" href="$d9/d6c/group__i8042.html#ga17359167485009c0c7e004ef44a907ec" title="Writes a command to the input buffer of the KBC." alt="" coords="698,5,823,33"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="872,55,809,36,811,31,873,50"/>
+<area shape="rect" id="Node000003" href="$d0/df6/group__mouse.html#ga13989630ef9536d4793a5318e7385adf" title="Disable data reporting for the mouse." alt="" coords="525,109,641,137"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="680,126,641,126,641,121,680,121"/>
+<area shape="rect" id="Node000007" href="$d0/df6/group__mouse.html#gaeda12eef3afc754a798dd2606ab6e0c1" title="Enable data reporting for the mouse." alt="" coords="527,5,639,33"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="703,104,694,99,679,85,670,73,660,61,646,48,624,36,627,31,649,44,664,57,674,70,683,82,697,94,706,100"/>
+<area shape="rect" id="Node000010" href="$d0/df6/group__mouse.html#ga35e33d7945f1ce6382524056ca713e7d" title="Next interrupt handling state." alt="" coords="544,161,622,189"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="697,145,623,166,621,161,695,139"/>
+<area shape="rect" id="Node000012" href="$d0/df6/group__mouse.html#ga87567d1895471335900cf29d4ea7965c" title=" " alt="" coords="518,57,648,85"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="695,107,632,88,633,83,696,102"/>
+<area shape="rect" id="Node000004" href="$d0/df6/group__mouse.html#ga6771e0f0e76e1d8b545f3a75dff9301e" title="Destroys a mouse management state." alt="" coords="386,109,460,137"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,126,461,126,461,121,510,121"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#a62bde0a93f3d0094e040e4eb0ff83486" title="Frees the memory allocated for the controllers and closes every driver. It should be called after the..." alt="" coords="190,109,313,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="370,126,314,126,314,121,370,121"/>
+<area shape="rect" id="Node000006" href="$d8/dfd/proj_8c.html#af244d65e69677cf312af1950452ec256" title=" " alt="" coords="5,109,127,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="174,126,127,126,127,121,174,121"/>
+<area shape="rect" id="Node000008" href="$d0/df6/group__mouse.html#ga49ecaab3cfcfcac345f225d0c9b398ef" title="Creates a new mouse management state for interrupt handling." alt="" coords="376,7,470,34"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="511,22,471,23,471,17,511,17"/>
+<area shape="rect" id="Node000009" href="$d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0" title="Populates the controller variables and initializes every driver. It should be called before the game ..." alt="" coords="175,57,328,85"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="362,41,301,59,300,54,361,36"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="185,92,119,111,117,106,184,87"/>
+<area shape="rect" id="Node000011" href="$d1/d75/controller_8c.html#a46fea93bf5d63e93090fbb95b742b881" title="Where all the interruptions and the state machine are handled. It closes when the user presses ESC." alt="" coords="205,161,298,189"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="529,178,298,178,298,173,529,173"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="189,161,117,140,119,135,190,155"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="503,74,328,74,328,69,503,69"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="696,93,633,111,632,106,695,87"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="695,55,632,36,633,31,696,50"/>
+<area shape="poly" id="edge18_Node000013_Node000012" title=" " alt="" coords="685,74,648,74,648,69,685,69"/>
+<area shape="poly" id="edge20_Node000014_Node000003" title=" " alt="" coords="706,43,697,48,683,61,674,73,664,85,649,99,627,111,624,106,646,94,660,82,670,70,679,57,694,44,703,38"/>
+<area shape="poly" id="edge21_Node000014_Node000007" title=" " alt="" coords="683,22,639,22,639,17,683,17"/>
+<area shape="poly" id="edge22_Node000014_Node000012" title=" " alt="" coords="696,41,633,59,632,54,695,35"/>
+</map>

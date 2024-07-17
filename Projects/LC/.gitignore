@@ -1,0 +1,9 @@
+src/proj
+*.o
+src/.gdbinit
+output.txt
+trace.txt
+src/CMakeLists.txt
+src/compile_commands.json
+src/cmake
+.cache

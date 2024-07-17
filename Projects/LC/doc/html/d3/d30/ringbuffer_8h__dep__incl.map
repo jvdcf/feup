@@ -1,0 +1,7 @@
+<map id="ringbuffer.h" name="ringbuffer.h">
+<area shape="rect" id="Node000001" title="Definition of a circular vector. Useful for serial communication." alt="" coords="32,5,130,33"/>
+<area shape="rect" id="Node000002" href="$d0/ddb/drv_8c.html" title="Implementation of the serial port driver." alt="" coords="5,81,58,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,48,42,82,38,79,61,45"/>
+<area shape="rect" id="Node000003" href="$d4/d77/ringbuffer_8c.html" title="Implementation of the ring buffer functions." alt="" coords="82,81,178,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,45,124,79,119,82,96,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="receive" name="receive">
+<area shape="rect" id="Node000001" title="The enemy attacks a square in the player board." alt="" coords="5,5,75,33"/>
+<area shape="rect" id="Node000002" href="$d1/dd6/model_8c.html#abe823b17e56b5d240aa05c467c15db7d" title="Get a pointer to a specific coordinate in a board (player or enemy)." alt="" coords="123,5,208,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,17,107,17,107,22,75,22"/>
+</map>

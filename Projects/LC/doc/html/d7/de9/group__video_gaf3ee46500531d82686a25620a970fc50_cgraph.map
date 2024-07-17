@@ -1,0 +1,15 @@
+<map id="direct_mode" name="direct_mode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,108,85"/>
+<area shape="rect" id="Node000002" href="$d7/de9/group__video.html#ga133d6314ed5b5fe8081cd93d9971b4c4" title="Adjust the blue component by combining row and column adjustments." alt="" coords="160,5,210,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,54,145,32,147,37,94,59"/>
+<area shape="rect" id="Node000004" href="$d7/de9/group__video.html#ga100c882c706fc39844fdb93fd33607ad" title="Adjust the green component based on the position and step." alt="" coords="156,57,214,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,69,140,69,140,74,108,74"/>
+<area shape="rect" id="Node000006" href="$d7/de9/group__video.html#gad7213154c7814376e75234e5f7e8646a" title="Adjust the red component based on the position and step." alt="" coords="164,109,206,137"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="94,83,151,107,148,112,92,88"/>
+<area shape="rect" id="Node000003" href="$d7/d45/video_8c.html#acccfc4b7188172566bb867f75062caa0" title=" " alt="" coords="262,5,300,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,17,246,17,246,22,210,22"/>
+<area shape="rect" id="Node000005" href="$d7/d45/video_8c.html#a0a301b09b9a27bf9fd96daf2ee272cf9" title=" " alt="" coords="262,57,300,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,69,246,69,246,74,214,74"/>
+<area shape="rect" id="Node000007" href="$d7/d45/video_8c.html#a39a313c29796609bd5f179715748d3c8" title=" " alt="" coords="262,109,300,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="206,121,246,121,246,126,206,126"/>
+</map>

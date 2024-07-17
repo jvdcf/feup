@@ -1,0 +1,7 @@
+<map id="_sp_trcv" name="_sp_trcv">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,81,33"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#a5a002482ded2767d23f7d277d70f797e" title="Read an element from the ring buffer." alt="" coords="129,5,252,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,17,113,17,113,22,81,22"/>
+<area shape="rect" id="Node000003" href="$d4/d77/ringbuffer_8c.html#a2172504a7cc31f03500be7da803ba645" title="Check if the ring buffer is empty, i.e., if the read and write heads are at the same position." alt="" coords="300,5,459,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,17,284,17,284,22,252,22"/>
+</map>

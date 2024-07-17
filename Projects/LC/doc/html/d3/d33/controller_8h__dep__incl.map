@@ -1,0 +1,7 @@
+<map id="controller.h" name="controller.h">
+<area shape="rect" id="Node000001" title="Definition of the game state machine and the controller in this MVC architecture." alt="" coords="54,5,150,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html" title="Implementation of all the functions executed in every iteration of the game loop." alt="" coords="5,81,100,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,48,63,82,59,79,82,45"/>
+<area shape="rect" id="Node000003" href="$d8/dfd/proj_8c.html" title="Entry point of the game." alt="" coords="124,81,181,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,45,146,79,141,82,117,48"/>
+</map>

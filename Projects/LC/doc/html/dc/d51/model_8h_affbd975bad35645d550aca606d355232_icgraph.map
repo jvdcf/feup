@@ -1,0 +1,9 @@
+<map id="attack" name="attack">
+<area shape="rect" id="Node000001" title="The player attacks a square in the enemy board." alt="" coords="339,32,401,60"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="146,32,291,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,49,291,49,291,43,323,43"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="5,5,98,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,34,98,29,99,24,131,29"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="10,57,93,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,62,94,68,93,62,130,57"/>
+</map>

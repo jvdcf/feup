@@ -1,0 +1,5 @@
+<map id="ring_buffer_pop" name="ring_buffer_pop">
+<area shape="rect" id="Node000001" title="Read an element from the ring buffer." alt="" coords="5,5,129,33"/>
+<area shape="rect" id="Node000002" href="$d4/d77/ringbuffer_8c.html#a2172504a7cc31f03500be7da803ba645" title="Check if the ring buffer is empty, i.e., if the read and write heads are at the same position." alt="" coords="177,5,336,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,17,161,17,161,22,129,22"/>
+</map>

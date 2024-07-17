@@ -1,0 +1,27 @@
+<map id="view.c" name="view.c">
+<area shape="rect" id="Node000001" title="Implementation of the functions related to the game view." alt="" coords="341,5,403,33"/>
+<area shape="rect" id="Node000002" href="$d3/dda/view_8h.html" title="Definitions of all the drawing functions, i.e., the view of this MVC architecture." alt="" coords="210,81,273,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,36,279,75,276,71,347,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="142,308,226,336"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="398,31,430,51,466,79,500,114,526,156,533,177,536,207,534,237,523,262,504,276,475,288,401,306,317,316,242,321,241,316,317,311,400,301,474,283,501,272,519,258,529,236,531,207,528,179,521,158,496,117,462,83,426,56,395,36"/>
+<area shape="rect" id="Node000004" href="$dc/d51/model_8h.html" title="The declaration of all the data structures and functions related to the game in this MVC architecture..." alt="" coords="5,157,80,184"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="341,32,274,53,198,83,133,117,77,150,74,146,130,112,196,79,273,48,339,27"/>
+<area shape="rect" id="Node000008" href="$d1/db3/pixmap_8h.html" title="A list of all the xpm&#39;s used in the project." alt="" coords="429,157,512,184"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="382,32,456,142,451,145,378,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,109,174,128,158,141,145,158,134,184,132,207,136,230,145,259,164,294,160,297,140,261,131,232,126,207,129,183,140,155,154,138,171,123,208,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,110,93,153,91,148,208,105"/>
+<area shape="rect" id="Node000005" href="$dd/d78/video_8h.html" title="Declarations of functions related to the graphics card driver." alt="" coords="155,157,264,184"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="238,110,223,144,218,141,233,108"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="287,157,406,184"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="262,107,317,146,314,150,258,111"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="274,104,416,149,414,154,272,109"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="51,184,71,219,100,258,124,279,149,297,146,302,121,283,97,262,66,222,46,186"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="217,184,228,219,229,240,226,261,207,297,202,295,221,259,224,240,222,220,212,185"/>
+<area shape="rect" id="Node000006" href="$d6/d28/vbe_8h.html" title="Constants and functions for dealing with the VBE standard." alt="" coords="155,232,213,260"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="207,186,196,218,191,217,202,184"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="187,261,187,292,181,292,181,261"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="435,232,509,260"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="473,185,474,217,469,217,468,185"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="313,232,412,260"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="453,187,396,226,393,221,450,183"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="sp_pop_byte" name="sp_pop_byte">
+<area shape="rect" id="Node000001" title="Pops a byte from the input buffer." alt="" coords="572,57,676,85"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html#a07eb1023ba6520985c3123f6b77212ff" title="In the WaitingSelect state, communicate with the other computer to see who plays first." alt="" coords="339,5,524,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,56,485,36,486,31,558,51"/>
+<area shape="rect" id="Node000003" href="$d1/d75/controller_8c.html#a7c5ce8bd5fd68c607f42500b7cfbfe63" title="In the WaitingTurn state, receive the attack and communicate the result." alt="" coords="346,57,518,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="557,74,518,74,518,69,557,69"/>
+<area shape="rect" id="Node000004" href="$d0/ddb/drv_8c.html#a2dc4f395ab8f56171e16c94208b7d9c3" title="Waits until a packet is received." alt="" coords="340,109,524,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="558,92,486,111,485,106,557,87"/>
+<area shape="rect" id="Node000005" href="$d1/d75/controller_8c.html#a989a7bf3b97530cc10b6142032241f45" title="In the MyTurn state, communicate the attack and receive the result." alt="" coords="146,109,291,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,126,291,126,291,121,324,121"/>
+<area shape="rect" id="Node000006" href="$d1/d75/controller_8c.html#a252e3d0f3fe488a89216b21ee3188e0f" title="In the MyTurn state, handle the mouse packets and call sm_serial_my_turn when the player clicks." alt="" coords="5,83,98,110"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="130,112,98,106,99,101,131,106"/>
+<area shape="rect" id="Node000007" href="$d1/d75/controller_8c.html#aac4fa7f147f23130e602e3d0c1948318" title="In the MyTurn state, decrement the timer, and if it reaches 0, change to WaitingTurn." alt="" coords="10,135,93,162"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="131,139,94,145,93,140,130,134"/>
+</map>

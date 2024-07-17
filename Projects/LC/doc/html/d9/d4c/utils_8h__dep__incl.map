@@ -1,0 +1,29 @@
+<map id="utils.h" name="utils.h">
+<area shape="rect" id="Node000001" title="Declarations of utility functions." alt="" coords="258,5,319,33"/>
+<area shape="rect" id="Node000002" href="$d1/d75/controller_8c.html" title="Implementation of all the functions executed in every iteration of the game loop." alt="" coords="5,232,100,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,28,131,47,80,63,61,72,49,83,39,100,33,120,32,162,40,202,50,231,45,233,35,203,27,163,28,119,34,98,45,79,58,68,78,58,129,42,242,23"/>
+<area shape="rect" id="Node000003" href="$d2/dd9/controller_8h.html" title="Definition of the game state machine and the controller in this MVC architecture." alt="" coords="136,157,231,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,35,207,53,190,66,178,82,171,101,171,120,180,155,175,157,166,121,166,100,173,80,187,62,204,49,242,30"/>
+<area shape="rect" id="Node000005" href="$d8/d5c/drv_8h.html" title="Declaration of the serial port driver." alt="" coords="59,81,113,109"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="244,39,114,86,112,81,242,34"/>
+<area shape="rect" id="Node000007" href="$d4/d1f/i8042_8c.html" title="Implementation of the functions related to the i8042 KBC." alt="" coords="508,81,576,109"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="335,31,508,81,507,86,333,36"/>
+<area shape="rect" id="Node000008" href="$de/dbd/keyboard_8c.html" title="Implementation of the driver functions related to the keyboard driver." alt="" coords="285,157,377,184"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="335,32,369,51,384,64,396,80,400,91,400,103,390,124,373,143,353,158,350,154,369,139,386,121,395,102,395,92,391,82,380,67,366,55,332,37"/>
+<area shape="rect" id="Node000009" href="$d6/da0/keyboard_8h.html" title="Declarations of functions related to the keyboard driver." alt="" coords="187,81,281,109"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="272,47,246,82,241,79,267,44"/>
+<area shape="rect" id="Node000010" href="$db/d9f/mouse_8c.html" title="Implementation of the driver functions related to the mouse driver." alt="" coords="416,157,492,184"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="335,31,377,50,416,79,430,98,441,119,453,155,448,157,436,121,426,101,412,83,374,55,333,36"/>
+<area shape="rect" id="Node000011" href="$dc/ded/mouse_8h.html" title="Declarations of the functions related to the mouse driver." alt="" coords="305,81,382,109"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="310,44,336,79,331,82,305,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="148,195,77,234,74,230,145,190"/>
+<area shape="rect" id="Node000004" href="$d8/dfd/proj_8c.html" title="Entry point of the game." alt="" coords="155,232,212,260"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="186,200,186,232,181,232,181,200"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="117,116,168,154,164,158,113,120"/>
+<area shape="rect" id="Node000006" href="$d0/ddb/drv_8c.html" title="Implementation of the serial port driver." alt="" coords="60,157,112,184"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="89,124,89,156,83,156,83,124"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="218,123,194,158,190,155,214,120"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="265,116,316,154,312,158,261,120"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="302,118,213,159,210,154,300,113"/>
+<area shape="poly" id="edge16_Node000011_Node000010" title=" " alt="" coords="377,115,436,154,433,158,374,120"/>
+</map>

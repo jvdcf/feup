@@ -1,0 +1,21 @@
+<map id="kbc_write_cmd" name="kbc_write_cmd">
+<area shape="rect" id="Node000001" title="Writes a command to command register of the KBC." alt="" coords="717,57,836,85"/>
+<area shape="rect" id="Node000002" href="$d0/df6/group__mouse.html#ga13989630ef9536d4793a5318e7385adf" title="Disable data reporting for the mouse." alt="" coords="553,5,669,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,55,657,36,658,31,716,50"/>
+<area shape="rect" id="Node000006" href="$d0/df6/group__mouse.html#gaeda12eef3afc754a798dd2606ab6e0c1" title="Enable data reporting for the mouse." alt="" coords="555,57,667,85"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="701,74,668,74,668,69,701,69"/>
+<area shape="rect" id="Node000009" href="$d0/df6/group__mouse.html#ga87567d1895471335900cf29d4ea7965c" title=" " alt="" coords="376,109,505,137"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="706,92,669,99,506,120,505,115,668,94,705,86"/>
+<area shape="rect" id="Node000003" href="$d0/df6/group__mouse.html#ga6771e0f0e76e1d8b545f3a75dff9301e" title="Destroys a mouse management state." alt="" coords="404,5,478,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,22,478,22,478,17,538,17"/>
+<area shape="rect" id="Node000004" href="$d1/d75/controller_8c.html#a62bde0a93f3d0094e040e4eb0ff83486" title="Frees the memory allocated for the controllers and closes every driver. It should be called after the..." alt="" coords="190,5,313,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,22,314,22,314,17,388,17"/>
+<area shape="rect" id="Node000005" href="$d8/dfd/proj_8c.html#af244d65e69677cf312af1950452ec256" title=" " alt="" coords="5,32,127,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,33,128,40,127,34,174,28"/>
+<area shape="rect" id="Node000007" href="$d0/df6/group__mouse.html#ga49ecaab3cfcfcac345f225d0c9b398ef" title="Creates a new mouse management state for interrupt handling." alt="" coords="394,57,488,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="539,74,488,74,488,69,539,69"/>
+<area shape="rect" id="Node000008" href="$d1/d75/controller_8c.html#a0c9e024a849536531757fddba76487e0" title="Populates the controller variables and initializes every driver. It should be called before the game ..." alt="" coords="175,57,328,85"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="378,74,328,74,328,69,378,69"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="159,61,127,57,127,51,159,56"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="372,107,304,88,305,83,374,102"/>
+</map>
