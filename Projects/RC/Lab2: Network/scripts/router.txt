@@ -1,0 +1,29 @@
+# "Script" for RCOM demonstration: MikroTik Router
+# Authors:
+# Guilherme Duarte Silva Matos (up202208755@up.pt)
+# João Vítor da Costa Ferreira (up202208393@up.pt)
+
+# Note: Do not execute this script. It is not automated :/
+
+# Reset configuration
+[admin@MikroTik] > /system reset-configuration
+
+# Experience #1
+# N/A
+
+# Experience #2
+# N/A
+
+# Experience #3
+# N/A
+
+# Experience #4
+[admin@MikroTik] > /ip address add address=172.16.1.Y1/24 interface=ether1
+// Router eth1
+[admin@MikroTik] > /ip address add address=172.16.Y1.254/24 interface=ether2
+// Router eth2
+[admin@MikroTik] > /ip route add dst-address=172.16.Y0.0/24 gateway=172.16.Y1.253
+// Router → tuxY4eth2 ⇉ bridgeY0
+
+# Experience #5
+# N/A

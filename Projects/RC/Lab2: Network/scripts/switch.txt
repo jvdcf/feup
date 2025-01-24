@@ -1,0 +1,38 @@
+# "Script" for RCOM demonstration: MikroTik Switch
+# Authors:
+# Guilherme Duarte Silva Matos (up202208755@up.pt)
+# João Vítor da Costa Ferreira (up202208393@up.pt)
+
+# Note: Do not execute this script. It is not automated :/
+
+# Reset configuration
+[admin@MikroTik] > /system reset-configuration
+
+# Experience #1
+# N/A
+
+# Experience #2
+[admin@MikroTik] > /interface bridge add name=bridge60
+[admin@MikroTik] > /interface bridge add name=bridge61
+[admin@MikroTik] > /interface bridge port remove
+numbers: 1
+[admin@MikroTik] > /interface bridge port remove
+numbers: 2
+[admin@MikroTik] > /interface bridge port remove
+numbers: 3
+[admin@MikroTik] > /interface bridge port add bridge=bridge61 interface=ether2
+[admin@MikroTik] > /interface bridge port add bridge=bridge60 interface=ether3
+[admin@MikroTik] > /interface bridge port add bridge=bridge60 interface=ether4
+
+# Experience #3
+[admin@MikroTik] > /interface bridge port remove
+numbers: 10
+[admin@MikroTik] > /interface bridge port add bridge=bridge61 interface=ether14
+
+# Experience #4
+[admin@MikroTik] > /interface bridge port remove
+numbers: 7
+[admin@MikroTik] > /interface bridge port add bridge=bridge61 interface=ether11
+
+# Experience #5
+# N/A
