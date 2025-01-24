@@ -167,37 +167,37 @@ This is a compilation of all notes, exercises and programs made while studying i
     <td class="tg-nrix" rowspan="10">3<br><br><span style="color:#9B9B9B">(24/25)</span></td>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520326" target="_blank" rel="noopener noreferrer">FSI</a></td>
     <td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+	<td class="tg-nrix">Docker, VirtualBox, Python</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520327" target="_blank" rel="noopener noreferrer">IPC</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">Figma</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520328" target="_blank" rel="noopener noreferrer">LBAW</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">Laravel, PostgreSQL, PHP, Bootstrap, JavaScript, Docker</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520329" target="_blank" rel="noopener noreferrer">PFL</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="https://github.com/jvdcf/pfl-haskell" target="_blank" rel="noopener noreferrer">🔗</a><a href="https://github.com/jvdcf/pfl-prolog" target="_blank" rel="noopener noreferrer">🔗</a></td>
+	<td class="tg-nrix">Haskell, Prolog</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520330" target="_blank" rel="noopener noreferrer">RC</a></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁📁</td>
+	<td class="tg-nrix">C, Linux</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520331" target="_blank" rel="noopener noreferrer">C</a></td>
