@@ -195,7 +195,7 @@ This is a compilation of all notes, exercises and programs made while studying i
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520330" target="_blank" rel="noopener noreferrer">RC</a></td>
     <td class="tg-nrix">📁</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix">📁📁</td>
 	<td class="tg-nrix">C, Linux</td>
   </tr>
