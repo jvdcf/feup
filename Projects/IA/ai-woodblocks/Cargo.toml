@@ -1,0 +1,29 @@
+[package]
+name = "ai-woodblocks"
+version = "0.1.0"
+edition = "2024"
+authors = [
+    "Duarte Souto Assunção <up202208319@up.pt>",
+    "Guilherme Duarte Silva Matos <up202208755@up.pt>",
+    "João Vítor da Costa Ferreira <up202208393@up.pt>",
+]
+description = "Woodblocks: Heuristic Search Methods implemented for a One-Player Solitaire Game"
+readme = "README.md"
+license = "MIT"
+
+[profile.release]
+codegen-units = 16
+lto = "fat"
+opt-level= 3
+strip = "symbols"
+
+[dependencies]
+bevy = { version = "0.15.3", features = ["wayland"] }
+wayland-sys = { version = "*", features = ["dlopen"] }
+petgraph = "0.7.1"
+thiserror = "2.0.12"
+clap = { version = "4.5.35", features = ["derive"] }
+serde = { version = "1.0.219", features = ["derive"] }
+ron = "0.9.0"
+anyhow = "1.0.97"
+rand = "0.9.0"

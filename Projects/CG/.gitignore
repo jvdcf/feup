@@ -1,0 +1,11 @@
+# Python server
+/.venv
+
+# Nix
+.envrc
+/.direnv
+flake.nix
+flake.lock
+
+# VSCode
+.vscode/

@@ -201,38 +201,38 @@ This is a compilation of all notes, exercises and programs made while studying i
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520331" target="_blank" rel="noopener noreferrer">C</a></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">Java, ANTLR, Jasmin</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520332" target="_blank" rel="noopener noreferrer">CG</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁</td>
+	<td class="tg-nrix">WebGL, JavaScript</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520333" target="_blank" rel="noopener noreferrer">CPD</a></td>
+    <td class="tg-nrix">📁</td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+	<td class="tg-nrix">📁</td>
+    <td class="tg-nrix">Java, C, Rust, Docker</td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520334" target="_blank" rel="noopener noreferrer">IA</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix">📁📁</td>
+	<td class="tg-nrix">Rust</td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520335" target="_blank" rel="noopener noreferrer">Projeto</a></td>
+    <td class="tg-nrix"><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520335" target="_blank" rel="noopener noreferrer">PI</a></td>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-	<td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="https://www.linkedin.com/in/jvdcf/" target="_blank" rel="noopener noreferrer">🔒</a></td>
+	<td class="tg-nrix">Python (Web2Py), HTML, Leaflet, Bootstrap, JavaScript, mdbook</td>
   </tr>
 </tbody>
 </table>

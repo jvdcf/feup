@@ -1,0 +1,25 @@
+[package]
+name = "ai-diabetes"
+version = "0.1.0"
+edition = "2024"
+authors = [
+    "Duarte Souto Assunção <up202208319@up.pt>",
+    "Guilherme Duarte Silva Matos <up202208755@up.pt>",
+    "João Vítor da Costa Ferreira <up202208393@up.pt>",
+]
+description = "Diabetes Prediction: A Supervised Learning Project"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+csv = "1.3.1"
+linfa = "0.7.1"
+linfa-bayes = "0.7.1"
+linfa-preprocessing = "0.7.1"
+linfa-svm = "0.7.2"
+linfa-trees = "0.7.1"
+ndarray = { version = "0.15", default-features = false }
+ndarray-csv = "0.5.1"
+plotters = { version = "0.3.7", features = ["boxplot", "evcxr", "all_series", "all_elements"]}
+polars = { version = "0.46.0", features = ["lazy", "csv", "polars-io"] }
+rand = "0.8.5"

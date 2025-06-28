@@ -1,0 +1,12 @@
+/target
+
+# Nix related
+.envrc
+/nix
+flake.nix
+flake.lock
+/.direnv
+
+# IDEs
+/.vscode
+/.helix
